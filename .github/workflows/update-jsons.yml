@@ -23,17 +23,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install bs4 requests
 
-      - name: Run script for Japanese
-        run: python fetch_ja.py
-
-      - name: Run script for English
-        run: python fetch_en.py
+      - name: Run script
+        run: python fetch.py
 
       - name: Commit scraped JSON
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add jobs_ja.json
-          git add jobs_en.json
+          git add .
           git commit -m "Update data"
           git push
