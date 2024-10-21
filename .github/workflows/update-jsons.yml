@@ -1,0 +1,39 @@
+name: Update JSONs
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install bs4 requests
+
+      - name: Run script for Japanese
+        run: python fetch_ja.py
+
+      - name: Run script for English
+        run: python fetch_en.py
+
+      - name: Commit scraped JSON
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add jobs_ja.json
+          git add jobs_en.json
+          git commit -m "Update data"
+          git push
