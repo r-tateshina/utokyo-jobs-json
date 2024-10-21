@@ -2,7 +2,7 @@ name: Update JSONs
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "15 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit scraped JSON
         run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "github-actions@github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions"
           git add .
-          git commit -m "Update data"
+          git commit -m "Update JSONs"  || exit 0
           git push
