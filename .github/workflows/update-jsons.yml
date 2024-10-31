@@ -31,5 +31,38 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions"
           git add .
-          git commit -m "Update JSONs"  || exit 0
+          git commit -m "Update JSONs" || exit 0
           git push
+
+      - name: Check if jobs_ja.json changed
+        id: check_diff
+        run: |
+          git fetch origin
+          # Check if jobs_ja.json has changed
+          if git diff --name-only HEAD HEAD~1 | grep '^jobs_ja\.json$'; then
+            # Get the latest and previous commit hashes
+            LATEST_COMMIT=$(git rev-parse HEAD)
+            PREV_COMMIT=$(git rev-parse HEAD~1)
+            echo "::set-output name=latest_commit::$LATEST_COMMIT"
+            echo "::set-output name=prev_commit::$PREV_COMMIT"
+          else
+            echo "No changes detected in jobs_ja.json."
+            echo "::set-output name=latest_commit::"
+            echo "::set-output name=prev_commit::"
+          fi
+
+      - name: Post to external API if jobs_ja.json changed
+        if: steps.check_diff.outputs.latest_commit != ''
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          BEARER_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          # Construct URLs for the old and new versions of jobs_ja.json
+          OLD_JSON_URL="https://raw.githubusercontent.com/r-tateshina/utokyo-jobs-json/${{ steps.check_diff.outputs.prev_commit }}/jobs_ja.json"
+          NEW_JSON_URL="https://raw.githubusercontent.com/r-tateshina/utokyo-jobs-json/${{ steps.check_diff.outputs.latest_commit }}/jobs_ja.json"
+
+          # Post data to the external API
+          curl -X POST "$API_URL" \
+          -H "Content-Type: application/json" \
+          -H "Authorization: Bearer $BEARER_TOKEN" \
+          -d "{\"old_json_url\": \"$OLD_JSON_URL\", \"new_json_url\": \"$NEW_JSON_URL\"}"
