@@ -793,6 +793,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2024年12月13日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年11月27日",
+        "department": "経営戦略企画室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400252555.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2024年12月13日※ただし採用者が決定次第、募集終了",
         "posted": "2024年11月27日",
@@ -1206,6 +1215,15 @@
         "url": "https://www.u-tokyo.ac.jp/content/400252481.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2024年12月26日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年11月27日",
+        "department": "物理学専攻,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1722"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2024年12月26日※ただし採用者が決定次第、募集終了",
@@ -1609,6 +1627,15 @@
         "department": "生物多様性・生態系サービス分野　森章研究室,先端科学技術研究センター",
         "organization": "先端科学技術研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400248597.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年1月8日",
+        "posted": "2024年11月27日",
+        "department": "総合研究博物館,本部博物館事業課",
+        "organization": "本部博物館事業課",
+        "url": "https://www.um.u-tokyo.ac.jp/wordpress/wp-content/uploads/koubo20241127.pdf"
     },
     {
         "type": "教員・研究員",
