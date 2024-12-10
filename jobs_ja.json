@@ -622,6 +622,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定有期雇用教職員）",
+        "deadline": "2024年12月24日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年12月10日",
+        "department": "先端医療研究センター 血液・腫瘍生物学分野,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400253178.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2024年12月24日※ただし採用者が決定次第、募集終了",
         "posted": "2024年12月9日",
@@ -718,6 +727,24 @@
         "department": "システムデザイン研究センター,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2024/0902/cr2024-089-0902-013.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2024年12月27日",
+        "posted": "2024年12月10日",
+        "department": "グローバル気候力学分野,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400253180.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2024年12月27日",
+        "posted": "2024年12月10日",
+        "department": "グローバル気候力学分野,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400253179.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1476,6 +1503,15 @@
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2024/1205/cr2024-166-1205-002.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年1月17日",
+        "posted": "2024年12月10日",
+        "department": "事務部総務課総務チーム,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2024/20241210-1.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2025年1月17日",
@@ -1789,6 +1825,24 @@
         "department": "附属極限コヒーレント光科学研究センター・近藤研究室,物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2024/12/jokyo_lasorkondo_ja.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年3月10日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年12月10日",
+        "department": "技術ガバナンス研究ユニット,未来ビジョン研究センター",
+        "organization": "未来ビジョン研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400253183.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "技術補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年3月21日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年12月10日",
+        "department": "技術ガバナンス研究ユニット,未来ビジョン研究センター",
+        "organization": "未来ビジョン研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400253181.pdf"
     },
     {
         "type": "事務系・技術系職員等",
