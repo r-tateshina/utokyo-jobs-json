@@ -1369,6 +1369,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年1月10日※ただし採用者が決定次第、募集終了",
+        "posted": "2024年12月11日",
+        "department": "附属病院 セルプロセッシング・輸血部,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400253292.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年1月10日※ただし採用者が決定次第、募集終了",
         "posted": "2024年12月2日",
@@ -1537,6 +1546,24 @@
         "department": "口腔顎顔面外科・矯正歯科,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20241108-1.html"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2025年1月20日",
+        "posted": "2024年12月11日",
+        "department": "附属原子核科学研究センター和光分室,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1727"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年1月20日",
+        "posted": "2024年12月11日",
+        "department": "大学院人文社会系研究科次世代人文学開発センター,人文社会系研究科・文学部",
+        "organization": "人文社会系研究科・文学部",
+        "url": "https://www.u-tokyo.ac.jp/content/400253289.pdf"
     },
     {
         "type": "事務系・技術系職員等",
