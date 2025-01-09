@@ -550,6 +550,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "技術補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年1月20日",
+        "posted": "2025年1月9日",
+        "department": "生産・環境生物学専攻(園芸学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250108-2.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2025年1月20日",
         "posted": "2025年1月6日",
@@ -889,6 +898,15 @@
         "department": "広報室,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1738"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年1月28日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月9日",
+        "department": "本部保全課,本部保全課",
+        "organization": "本部保全課",
+        "url": "https://www.u-tokyo.ac.jp/content/400254604.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1690,5 +1708,14 @@
         "department": "発達医科学,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20250106.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2025年4月21日",
+        "posted": "2025年1月9日",
+        "department": "日本列島モニタリング研究センター,地震研究所",
+        "organization": "地震研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400254605.pdf"
     }
 ]
