@@ -703,6 +703,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2025年1月28日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月15日",
+        "department": "SPRING GX,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1753"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（短時間勤務有期雇用教職員）",
         "deadline": "2025年1月28日※ただし採用者が決定次第、募集終了",
         "posted": "2025年1月9日",
@@ -817,6 +826,15 @@
         "department": "ナノスケール物性研究部門,物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2024/11/shoinjinji_nanoscale_ja.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年1月31日",
+        "posted": "2025年1月15日",
+        "department": "航空宇宙モビリティ分野,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400255024.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1168,6 +1186,24 @@
         "department": "次世代育成オフィス(ONG),生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400253947.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年2月3日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月15日",
+        "department": "動物医療センター,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250115-4.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年2月3日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月15日",
+        "department": "動物医療センター,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250115-3.pdf"
     },
     {
         "type": "教員・研究員",
