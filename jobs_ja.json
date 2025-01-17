@@ -1,105 +1,6 @@
 [
     {
         "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2025年1月17日",
-        "posted": "2024年12月20日",
-        "department": "地球環境化学分野,先端科学技術研究センター",
-        "organization": "先端科学技術研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400253860.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月17日",
-        "posted": "2024年12月10日",
-        "department": "事務部総務課総務チーム,農学生命科学研究科・農学部",
-        "organization": "農学生命科学研究科・農学部",
-        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2024/20241210-1.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2025年1月17日",
-        "posted": "2024年12月5日",
-        "department": "森林科学専攻(森林生物地球科学研究室),農学生命科学研究科・農学部",
-        "organization": "農学生命科学研究科・農学部",
-        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2024/20241205-1.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "助教（教職員）",
-        "deadline": "2025年1月17日",
-        "posted": "2024年11月15日",
-        "department": "人文社会系研究科情報メディア室,人文社会系研究科・文学部",
-        "organization": "人文社会系研究科・文学部",
-        "url": "https://www.u-tokyo.ac.jp/content/400251752.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月23日",
-        "department": "化学専攻 楊井研究室,理学系研究科・理学部",
-        "organization": "理学系研究科・理学部",
-        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1741"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月20日",
-        "department": "大学院情報学環,情報学環・学際情報学府",
-        "organization": "情報学環・学際情報学府",
-        "url": "https://www.u-tokyo.ac.jp/content/400253842.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月20日",
-        "department": "大学院情報学環,情報学環・学際情報学府",
-        "organization": "情報学環・学際情報学府",
-        "url": "https://www.u-tokyo.ac.jp/content/400253840.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月20日",
-        "department": "大学院情報学環,情報学環・学際情報学府",
-        "organization": "情報学環・学際情報学府",
-        "url": "https://www.u-tokyo.ac.jp/content/400253838.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月13日",
-        "department": "物理学専攻事務分室,理学系研究科・理学部",
-        "organization": "理学系研究科・理学部",
-        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1731"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門員（特定有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月11日",
-        "department": "産学協創推進本部 産学イノベーション推進部,本部産学連携推進課",
-        "organization": "本部産学連携推進課",
-        "url": "https://www.u-tokyo.ac.jp/content/400253288.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2025年1月17日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月3日",
-        "department": "都市工学専攻,工学系研究科・工学部",
-        "organization": "工学系研究科・工学部",
-        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2024/1203/cr2024-164-1203-001.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "特任助教（女性限定）（特定有期雇用教職員）",
         "deadline": "2025年1月19日",
         "posted": "2024年12月19日",
@@ -988,15 +889,6 @@
         "department": "産学協創部協創課,本部協創企画課",
         "organization": "本部協創企画課",
         "url": "https://www.u-tokyo.ac.jp/content/400253806.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門員（特定有期雇用教職員）",
-        "deadline": "2025年1月31日※ただし採用者が決定次第、募集終了",
-        "posted": "2024年12月17日",
-        "department": "産学協創推進本部,スタートアップ推進部,本部産学連携推進課",
-        "organization": "本部産学連携推進課",
-        "url": "https://www.u-tokyo.ac.jp/content/400253671.pdf"
     },
     {
         "type": "事務系・技術系職員等",
