@@ -1306,6 +1306,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年2月10日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月17日",
+        "department": "生物材料科学専攻(高分子材料学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250117-1.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任研究員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年2月10日※ただし採用者が決定次第、募集終了",
         "posted": "2025年1月15日",
@@ -1321,6 +1330,15 @@
         "department": "大学総合教育研究センターTL推進部門,大学総合教育研究センター",
         "organization": "大学総合教育研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400254980.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年2月14日",
+        "posted": "2025年1月17日",
+        "department": "総務係(広報担当),宇宙線研究所",
+        "organization": "宇宙線研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400255164.pdf"
     },
     {
         "type": "事務系・技術系職員等",
