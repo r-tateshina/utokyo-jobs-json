@@ -19,15 +19,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定有期雇用教職員）",
-        "deadline": "2025年1月30日",
-        "posted": "2025年1月15日",
-        "department": "大学総合教育研究センター教育DX推進部門,大学総合教育研究センター",
-        "organization": "大学総合教育研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400254991.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年1月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年1月17日",
@@ -1051,6 +1042,15 @@
         "department": "事務部財務・研究協力チーム財務担当,経済学研究科・経済学部",
         "organization": "経済学研究科・経済学部",
         "url": "https://www.e.u-tokyo.ac.jp/jobs/2024/20250129-2_boshu.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年2月17日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年1月30日",
+        "department": "本部保全課,本部保全課",
+        "organization": "本部保全課",
+        "url": "https://www.u-tokyo.ac.jp/content/400256057.pdf"
     },
     {
         "type": "教員・研究員",
