@@ -688,6 +688,42 @@
         "position": "特任講師または特任助教（特定有期雇用教職員）",
         "deadline": "2025年2月28日",
         "posted": "2025年2月4日",
+        "department": "システム創成学専攻「都市高速×次世代通信:未来のインフラ構築に向けた統合アプローチ」社会連携講座,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0203/cr2024-210-0203-010.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任講師または特任助教（特定有期雇用教職員）",
+        "deadline": "2025年2月28日",
+        "posted": "2025年2月4日",
+        "department": "システム創成学専攻「Beyond 5G価値共創講座」社会連携講座,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0203/cr2024-209-0203-009.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任講師または特任助教（特定有期雇用教職員）",
+        "deadline": "2025年2月28日",
+        "posted": "2025年2月4日",
+        "department": "システム創成学専攻「IOWN構想に資する革新的情報通信技術研究」社会連携講座,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0203/cr2024-208-0203-008.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任講師または特任助教（特定有期雇用教職員）",
+        "deadline": "2025年2月28日",
+        "posted": "2025年2月4日",
+        "department": "システム創成学専攻「地方創生を加速する次世代ワイヤレス応用技術」社会連携講座,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0203/cr2024-207-0203-007.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任講師または特任助教（特定有期雇用教職員）",
+        "deadline": "2025年2月28日",
+        "posted": "2025年2月4日",
         "department": "システム創成学専攻「Beyond5G/6Gに向けたネットワークスライシングの高度化の研究」社会連携講座,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0203/cr2024-206-0203-006.pdf"
@@ -844,6 +880,15 @@
         "department": "循環器内科,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20240404-5.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年2月28日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年2月4日",
+        "department": "宇宙環境・惑星圏科学分野 関研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400256464.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1033,6 +1078,15 @@
         "department": "技術ガバナンス研究ユニット,未来ビジョン研究センター",
         "organization": "未来ビジョン研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400253181.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授または講師（教職員）",
+        "deadline": "2025年3月24日",
+        "posted": "2025年2月4日",
+        "department": "言語情報科学専攻/英語部会,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "http://www.c.u-tokyo.ac.jp/info/news/employment/files/20250324_gengojyoho-eigobukai_jyunkyoujyu.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1357,6 +1411,24 @@
         "department": "生産・環境生物学専攻(昆虫遺伝研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250201-1.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年2月4日",
+        "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400256460.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年2月4日",
+        "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400256461.pdf"
     },
     {
         "type": "教員・研究員",
