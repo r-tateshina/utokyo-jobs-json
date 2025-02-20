@@ -712,6 +712,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任教授または特任准教授または特任講師（特定有期雇用教職員）",
+        "deadline": "2025年3月10日",
+        "posted": "2025年2月20日",
+        "department": "グローバル教育センター,本部国際教育推進課",
+        "organization": "本部国際教育推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400257845.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任研究員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年3月10日※ただし採用者が決定次第、募集終了",
         "posted": "2024年12月10日",
@@ -856,6 +865,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任准教授または特任講師（特定有期雇用教職員）",
+        "deadline": "2025年3月21日",
+        "posted": "2025年2月20日",
+        "department": "グローバル教育センター,本部国際教育推進課",
+        "organization": "本部国際教育推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400257841.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2025年3月21日",
         "posted": "2025年1月20日",
@@ -970,6 +988,15 @@
         "department": "附属進化認知科学研究センター　小池研究室,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20250328_shinkaninchij-koikeken_tokuninkenkyuin.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年3月31日",
+        "posted": "2025年2月20日",
+        "department": "先端物流科学寄附研究部門,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400257854.pdf"
     },
     {
         "type": "教員・研究員",
