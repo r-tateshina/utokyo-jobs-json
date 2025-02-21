@@ -1342,6 +1342,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任教員および特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年4月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年2月21日",
+        "department": "College of Design企画調整室,本部経営戦略課",
+        "organization": "本部経営戦略課",
+        "url": "https://www.u-tokyo.ac.jp/content/400257905.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "准教授（教職員）",
         "deadline": "2025年4月17日",
         "posted": "2025年2月17日",
@@ -1393,6 +1402,15 @@
         "department": "生産・環境生物学専攻(昆虫遺伝研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250201-1.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年2月21日",
+        "department": "物質系専攻,新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.k.u-tokyo.ac.jp/information/upload/f2c34bf2c53ffe978d2179ddc38a058f5f7f5204.pdf"
     },
     {
         "type": "教員・研究員",
