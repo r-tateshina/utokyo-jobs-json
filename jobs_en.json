@@ -262,11 +262,29 @@
     },
     {
         "type": "Faculty and Research Positions",
+        "position": "Research Associate (Academic and Administrative Staff)",
+        "deadline": "May 16, 2025",
+        "posted": "Mar. 11, 2025",
+        "department": "Laser and Synchrotron Research Center (LASOR) (Itatani Group),Institute for Solid State Physics",
+        "organization": "Institute for Solid State Physics",
+        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/03/jokyo_lasoritatani_en.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
         "position": "Assistant Professor (Academic and Administrative Staff)",
         "deadline": "Jun. 16, 2025",
         "posted": "Mar. 10, 2025",
         "department": "To be determined after hiring,Earthquake Research Institute",
         "organization": "Earthquake Research Institute",
         "url": "https://www.u-tokyo.ac.jp/content/400258943.pdf "
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Research Associate (Academic and Administrative Staff)",
+        "deadline": "Jun. 27, 2025",
+        "posted": "Mar. 11, 2025",
+        "department": "International MegaGauss Science Laboratory (IMGSL)(Miyata Group),Institute for Solid State Physics",
+        "organization": "Institute for Solid State Physics",
+        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/03/jokyo_kyojibamiyata_en.pdf"
     }
 ]
