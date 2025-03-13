@@ -316,15 +316,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年3月21日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年3月6日",
-        "department": "フランス語・イタリア語部会,総合文化研究科・教養学部",
-        "organization": "総合文化研究科・教養学部",
-        "url": "http://www.c.u-tokyo.ac.jp/info/news/employment/files/20250321_franceitaly_jimuhosain.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年3月21日※ただし採用者が決定次第、募集終了",
         "posted": "2025年3月5日",
@@ -457,6 +448,15 @@
         "department": "物性研究所　各部門施設,物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/01/syonaipd_jp.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年3月28日",
+        "posted": "2025年3月13日",
+        "department": "医療運営課,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250313.html"
     },
     {
         "type": "教員・研究員",
