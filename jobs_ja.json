@@ -19,15 +19,6 @@
     },
     {
         "type": "教員・研究員",
-        "position": "特任准教授または特任講師（特定有期雇用教職員）",
-        "deadline": "2025年3月21日",
-        "posted": "2025年2月20日",
-        "department": "グローバル教育センター,本部国際教育推進課",
-        "organization": "本部国際教育推進課",
-        "url": "https://www.u-tokyo.ac.jp/content/400257841.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2025年3月21日",
         "posted": "2025年1月20日",
@@ -79,15 +70,6 @@
         "department": "神経計算研究分野,定量生命科学研究所",
         "organization": "定量生命科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400258143.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定有期雇用教職員）",
-        "deadline": "2025年3月21日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年2月21日",
-        "department": "研究支援チーム,ニューロインテリジェンス国際研究機構",
-        "organization": "ニューロインテリジェンス国際研究機構",
-        "url": "https://ircn.jp/wp-content/uploads/2025/02/4817fc126506ae5cc4dd04c80ba51301.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -826,6 +808,15 @@
         "department": "国際地震・火山研究推進室,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400258724.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年4月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年3月21日",
+        "department": "神経計算研究分野,定量生命科学研究所",
+        "organization": "定量生命科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400260227.pdf"
     },
     {
         "type": "教員・研究員",
