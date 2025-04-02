@@ -1,24 +1,6 @@
 [
     {
         "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定有期雇用教職員）",
-        "deadline": "2025年4月2日",
-        "posted": "2025年2月21日",
-        "department": "宇宙線研究所,宇宙線研究所",
-        "organization": "宇宙線研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400257902.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "准教授（教職員）",
-        "deadline": "2025年4月2日",
-        "posted": "2025年2月6日",
-        "department": "神岡宇宙素粒子研究施設,宇宙線研究所",
-        "organization": "宇宙線研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400256620.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "事務補佐員・一般職員（育休等代替教職員）",
         "deadline": "2025年4月3日※ただし採用者が決定次第、募集終了",
         "posted": "2025年3月21日",
@@ -205,6 +187,15 @@
         "department": "日本列島モニタリング研究センター,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400254605.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年4月22日",
+        "posted": "2025年4月2日",
+        "department": "生命情報計測光学分野 太田研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400261337.pdf"
     },
     {
         "type": "事務系・技術系職員等",
