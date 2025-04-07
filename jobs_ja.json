@@ -289,6 +289,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年4月30日",
+        "posted": "2025年4月7日",
+        "department": "広域科学専攻,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20250430_kouiki_tokuninkenkyuin.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "准教授（教職員）",
         "deadline": "2025年4月30日",
         "posted": "2025年3月26日",
@@ -520,6 +529,15 @@
         "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400255595.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月1日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月7日",
+        "department": "附属進化認知科学研究センター,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20250501_shinkaninchi_gakujyutusenmonsyokuin.pdf"
     },
     {
         "type": "教員・研究員",
