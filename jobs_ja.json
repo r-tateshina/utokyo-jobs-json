@@ -10,15 +10,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "事務補佐員・一般職員（育休等代替教職員）",
-        "deadline": "2025年4月11日",
-        "posted": "2025年3月19日",
-        "department": "財務・研究協力チーム財務担当,経済学研究科・経済学部",
-        "organization": "経済学研究科・経済学部",
-        "url": "https://www.e.u-tokyo.ac.jp/jobs/2024/20250319_boshu.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2025年4月11日",
         "posted": "2025年3月12日",
@@ -756,6 +747,15 @@
         "url": "http://www.c.u-tokyo.ac.jp/info/news/employment/files/20250509_kouikisoukan-kinoukaiseki_jyunkyoujyu.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月9日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月11日",
+        "department": "都市工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0411/cr2025-016-0411-001.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任教授または特任准教授（特定有期雇用教職員）",
         "deadline": "2025年5月9日※ただし採用者が決定次第、募集終了",
@@ -772,6 +772,15 @@
         "department": "地域医療連携センター,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250328.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月12日",
+        "posted": "2025年4月11日",
+        "department": "追跡調査部門,高大接続研究開発センター",
+        "organization": "高大接続研究開発センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400262465.pdf"
     },
     {
         "type": "事務系・技術系職員等",
