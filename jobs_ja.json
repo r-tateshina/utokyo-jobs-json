@@ -388,6 +388,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員または特任専門職員（その他）",
+        "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月15日",
+        "department": "地球環境データコモンズ,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400262571.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年4月7日",
@@ -565,6 +574,24 @@
         "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400255595.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年5月1日",
+        "posted": "2025年4月15日",
+        "department": "生産・環境生物学専攻(育種学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250415-2.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年5月1日",
+        "posted": "2025年4月15日",
+        "department": "生産・環境生物学専攻(育種学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250415-1.pdf"
     },
     {
         "type": "事務系・技術系職員等",
