@@ -532,6 +532,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月2日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月18日",
+        "department": "グリーントランスフォーメーション戦略推進センター,本部GX推進課",
+        "organization": "本部GX推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400262770.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2025年5月2日※ただし採用者が決定次第、募集終了",
         "posted": "2025年4月17日",
@@ -966,10 +975,37 @@
         "type": "教員・研究員",
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2025年6月2日",
+        "posted": "2025年4月18日",
+        "department": "QC Project,素粒子物理国際研究センター",
+        "organization": "素粒子物理国際研究センター",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1788"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任准教授（特定有期雇用教職員）",
+        "deadline": "2025年6月2日",
+        "posted": "2025年4月18日",
+        "department": "QC Project,素粒子物理国際研究センター",
+        "organization": "素粒子物理国際研究センター",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1787"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年6月2日",
         "posted": "2025年4月17日",
         "department": "国際・地域連携研究センター 海洋アライアンス推進室および海洋生物資源部門,大気海洋研究所",
         "organization": "大気海洋研究所",
         "url": "https://www.aori.u-tokyo.ac.jp/recruit/files/tokuninjokyo20250602.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2025年6月6日",
+        "posted": "2025年4月18日",
+        "department": "応用生命工学専攻(分子育種学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250418-1.pdf"
     },
     {
         "type": "事務系・技術系職員等",
