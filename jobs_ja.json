@@ -37,15 +37,6 @@
     },
     {
         "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2025年4月25日",
-        "posted": "2025年3月24日",
-        "department": "航空宇宙モビリティ分野 伊藤研究室,先端科学技術研究センター",
-        "organization": "先端科学技術研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400260321.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "准教授（教職員）",
         "deadline": "2025年4月25日",
         "posted": "2025年1月10日",
@@ -295,15 +286,6 @@
         "department": "脳神経内科,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250327-2.html"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年4月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年3月27日",
-        "department": "理論化学分野 石北研究室,先端科学技術研究センター",
-        "organization": "先端科学技術研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400260750.pdf"
     },
     {
         "type": "教員・研究員",
@@ -756,6 +738,15 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250331-1.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月23日",
+        "department": "化学専攻　合田研究室,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1797"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2025年5月16日",
@@ -853,6 +844,15 @@
         "department": "ゲノム診療部,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250217-4.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月23日",
+        "department": "ゲノム診療部,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250422-2.html"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1132,6 +1132,24 @@
         "department": "臨床研究推進センター,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250409-1.html"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2025年6月30日",
+        "posted": "2025年4月23日",
+        "department": "附属クォーク・核物理研究機構,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1794"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "教授（教職員）",
+        "deadline": "2025年6月30日",
+        "posted": "2025年4月23日",
+        "department": "附属クォーク・核物理研究機構,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1793"
     },
     {
         "type": "教員・研究員",
