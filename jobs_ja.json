@@ -1009,6 +1009,24 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員 若しくは 特任助教（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月28日",
+        "department": "トランスレーショナルリサーチセンター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250425-2.html"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員 若しくは 特任助教（特定有期雇用教職員）",
+        "deadline": "2025年5月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月28日",
+        "department": "トランスレーショナルリサーチセンター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250425-1.html"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2025年5月31日※ただし採用者が決定次第、募集終了",
         "posted": "2025年4月17日",
@@ -1114,6 +1132,15 @@
         "department": "技術部総合観測室,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400258909.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2025年6月13日",
+        "posted": "2025年4月28日",
+        "department": "国際学術戦略室,東洋文化研究所",
+        "organization": "東洋文化研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400263145.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1240,15 +1267,6 @@
         "department": "海半球観測研究センター、又は観測開発研究センター,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400259286.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "技術補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年6月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年4月28日",
-        "department": "応用生命化学専攻(植物栄養・肥料学研究室),農学生命科学研究科・農学部",
-        "organization": "農学生命科学研究科・農学部",
-        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250428-1.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1438,6 +1456,15 @@
         "department": "広域科学専攻相関基礎科学系 科学技術基礎論講座 / 教養学部 哲学・科学史部会,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20250722_kouiki-tetsugakukagakushi_koshi.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授または講師（教職員）",
+        "deadline": "2025年7月31日",
+        "posted": "2025年4月28日",
+        "department": "新世代アジア研究部門,東洋文化研究所",
+        "organization": "東洋文化研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400263196.pdf"
     },
     {
         "type": "事務系・技術系職員等",
