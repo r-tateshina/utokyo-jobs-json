@@ -793,12 +793,12 @@
     },
     {
         "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
+        "position": "特任助教または特任研究員（特定有期雇用教職員）",
         "deadline": "2025年5月25日※ただし採用者が決定次第、募集終了",
         "posted": "2025年4月10日",
         "department": "生命情報計測光学分野 太田研究室,先端科学技術研究センター",
         "organization": "先端科学技術研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400262390.pdf"
+        "url": "https://www.u-tokyo.ac.jp/content/400263312.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1245,6 +1245,15 @@
         "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年6月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年4月28日",
+        "department": "応用生命化学専攻(植物栄養・肥料学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250428-1.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "技術補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年6月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年4月24日",
         "department": "応用生命化学専攻(植物栄養・肥料学研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
@@ -1411,6 +1420,15 @@
         "department": "獣医学専攻(獣医外科学研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250120-4.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "教授（教職員）",
+        "deadline": "2025年7月18日",
+        "posted": "2025年4月28日",
+        "department": "物性理論研究部門,物性研究所",
+        "organization": "物性研究所",
+        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/04/shoinjinji_busseiriron_ja.pdf"
     },
     {
         "type": "教員・研究員",
