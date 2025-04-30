@@ -802,6 +802,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月26日",
+        "posted": "2025年4月30日",
+        "department": "事務部総務課研究支援チーム,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250430-2.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2025年5月26日",
         "posted": "2025年4月24日",
@@ -1225,6 +1234,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "教授（教職員）",
+        "deadline": "2025年6月23日",
+        "posted": "2025年4月30日",
+        "department": "地球惑星科学専攻 地球生命圏科学講座,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/index.html?id=1802"
+    },
+    {
+        "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2025年6月27日",
         "posted": "2025年3月11日",
@@ -1483,6 +1501,15 @@
         "department": "附属中性子科学研究施設・古府研究室,物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/04/jokyo_cyuseishikofu_ja.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2025年7月14日",
+        "posted": "2025年4月30日",
+        "department": "地球惑星科学専攻 地球惑星システム科学講座,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/index.html?id=1805"
     },
     {
         "type": "教員・研究員",
