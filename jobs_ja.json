@@ -550,6 +550,24 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2025年5月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年5月2日",
+        "department": "東京大学ハラスメント相談所,本部労務・勤務環境課",
+        "organization": "本部労務・勤務環境課",
+        "url": "https://www.u-tokyo.ac.jp/content/400263585.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年5月2日",
+        "department": "東京大学ハラスメント相談所,本部労務・勤務環境課",
+        "organization": "本部労務・勤務環境課",
+        "url": "https://www.u-tokyo.ac.jp/content/400263586.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年5月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年5月1日",
@@ -808,6 +826,15 @@
         "department": "技術部総合観測室,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400258909.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年6月9日",
+        "posted": "2025年5月2日",
+        "department": "国際共同研究のいずれか、またはそれに関連する理論的研究に参加している研究機関,カブリ数物連携宇宙研究機構",
+        "organization": "カブリ数物連携宇宙研究機構",
+        "url": "https://www.ipmu.jp/ja/job-opportunities/CDFellow2025"
     },
     {
         "type": "教員・研究員",
@@ -1222,6 +1249,15 @@
         "department": "ゲノム予防医学社会連携研究部門,医科学研究所",
         "organization": "医科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400255829.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年8月1日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年5月2日",
+        "department": "発達医科学教室,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20250502.pdf"
     },
     {
         "type": "教員・研究員",
