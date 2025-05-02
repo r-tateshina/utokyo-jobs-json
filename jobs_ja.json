@@ -261,15 +261,6 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20250310-1.pdf"
     },
     {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年5月12日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年4月8日",
-        "department": "附属極限コヒーレント光科学研究センター(板谷研究室),物性研究所",
-        "organization": "物性研究所",
-        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/04/jimuhosain_itataniken.pdf"
-    },
-    {
         "type": "教員・研究員",
         "position": "特任准教授（教職員）",
         "deadline": "2025年5月14日",
@@ -421,6 +412,15 @@
         "department": "システムデザイン研究センター,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0418/cr2025-022-0418-002.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年5月23日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年5月2日",
+        "department": "大学院経済学研究科 社会的共通資本寄付講座,経済学研究科・経済学部",
+        "organization": "経済学研究科・経済学部",
+        "url": "https://www.e.u-tokyo.ac.jp/jobs/2025/20250502_boshu.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1105,15 +1105,6 @@
         "department": "大規模生命情報解析研究分野,定量生命科学研究所",
         "organization": "定量生命科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400260562.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "技術補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年6月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年3月25日",
-        "department": "低温液化室,物性研究所",
-        "organization": "物性研究所",
-        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/03/gijutsuhosain_ekikashitsu.pdf"
     },
     {
         "type": "教員・研究員",
