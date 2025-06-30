@@ -658,6 +658,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（教授秘書兼医局秘書）（短時間勤務有期雇用教職員）",
+        "deadline": "2025年7月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年6月30日",
+        "department": "小児外科,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250627-1.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "一般職員（育休等代替教職員）",
         "deadline": "2025年7月31日",
         "posted": "2025年6月26日",
@@ -973,6 +982,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年8月28日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年6月30日",
+        "department": "情報・エレクトロニクス系部門,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400266990.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "教授（教職員）",
         "deadline": "2025年8月29日",
         "posted": "2025年6月23日",
@@ -1042,6 +1060,24 @@
         "department": "システムデザイン研究センター,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0401/cr2025-001-0401-001.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "臨床検査技師（特定有期雇用教職員）",
+        "deadline": "2025年8月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年6月30日",
+        "department": "検査部(病理部門),医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250626.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "臨床検査技師（教職員）",
+        "deadline": "2025年8月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年6月30日",
+        "department": "検査部(病理部門),医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250626.html"
     },
     {
         "type": "教員・研究員",
