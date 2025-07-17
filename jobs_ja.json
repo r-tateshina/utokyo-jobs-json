@@ -766,15 +766,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "技術補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2025年8月29日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年6月10日",
-        "department": "低温液化室,物性研究所",
-        "organization": "物性研究所",
-        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/06/432983e08780776ad70249a1168f4f01.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "技能補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年8月29日※ただし採用者が決定次第、募集終了",
         "posted": "2025年5月12日",
@@ -844,6 +835,15 @@
         "department": "コンピュータ科学専攻 品川研究室,情報理工学系研究科",
         "organization": "情報理工学系研究科",
         "url": "https://www.u-tokyo.ac.jp/content/400266373.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2025年9月12日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年7月17日",
+        "department": "地球環境化学分野 角野研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400267930.pdf"
     },
     {
         "type": "教員・研究員",
