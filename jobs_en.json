@@ -199,15 +199,6 @@
     },
     {
         "type": "Faculty and Research Positions",
-        "position": "Project Researcher (Fixed-term Project Staff)",
-        "deadline": "Sep. 30, 2025(or until the position is filled)",
-        "posted": "Apr. 30, 2025",
-        "department": "Department of Informatics and Electronics (SUGIURA Lab.),Institute of Industrial Science",
-        "organization": "Institute of Industrial Science",
-        "url": "https://www.u-tokyo.ac.jp/content/400263409.pdf "
-    },
-    {
-        "type": "Faculty and Research Positions",
         "position": "Project Research Associate (Fixed-term Project Staff)",
         "deadline": "Sep. 30, 2025(or until the position is filled)",
         "posted": "Apr. 8, 2025",
@@ -304,5 +295,14 @@
         "department": "Kavli Institute for the Physics and Mathematics of the Universe,Kavli Institute for the Physics and Mathematics of the Universe",
         "organization": "Kavli Institute for the Physics and Mathematics of the Universe",
         "url": "https://www.ipmu.jp/en/job-opportunities/SPP2025"
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Project Researcher (Fixed-term Project Staff)",
+        "deadline": "Feb. 28, 2026(or until the position is filled)",
+        "posted": "Apr. 30, 2025",
+        "department": "Department of Informatics and Electronics (SUGIURA Lab.),Institute of Industrial Science",
+        "organization": "Institute of Industrial Science",
+        "url": "https://www.u-tokyo.ac.jp/content/400268870.pdf "
     }
 ]
