@@ -640,12 +640,30 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年10月8日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年9月11日",
+        "department": "学生支援室,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1837"
+    },
+    {
+        "type": "教員・研究員",
         "position": "国語科専任教諭（教職員）",
         "deadline": "2025年10月9日",
         "posted": "2025年8月21日",
         "department": "教育学部附属中等教育学校,教育学部附属中等教育学校",
         "organization": "教育学部附属中等教育学校",
         "url": "https://www.hs.p.u-tokyo.ac.jp/wp-content/uploads/2023/06/20250821kokugosennin_2-1.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年10月10日",
+        "posted": "2025年9月11日",
+        "department": "事務部 図書チーム,東洋文化研究所",
+        "organization": "東洋文化研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400270442.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1051,6 +1069,15 @@
         "department": "物理工学専攻,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/0818/cr2025-050-0818-03.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年12月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年9月11日",
+        "department": "事務部総務課総務チーム,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250911-1.pdf"
     },
     {
         "type": "事務系・技術系職員等",
