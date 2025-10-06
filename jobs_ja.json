@@ -414,15 +414,6 @@
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20251031_senshinkagakukenkyukikou_tokuninkenkyuin_jp.pdf"
     },
     {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門職員（4月採用　ドクターズアシスタント）（特定有期雇用教職員）",
-        "deadline": "2025年10月31日",
-        "posted": "2025年9月4日",
-        "department": "医療運営課,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250904-1.html"
-    },
-    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2025年10月31日",
@@ -925,6 +916,33 @@
         "department": "情報基盤センタースーパーコンピューティング研究部門,本部情報戦略課",
         "organization": "本部情報戦略課",
         "url": "https://www.itc.u-tokyo.ac.jp/wp-content/uploads/2025/09/68699a3f3284393be59455195d72462c-2.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "臨床検査技師（育休等代替教職員）",
+        "deadline": "2025年12月25日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年10月6日",
+        "department": "臨床研究推進センター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251006-3.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "看護師（臨時的採用）（育休等代替教職員）",
+        "deadline": "2025年12月25日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年10月6日",
+        "department": "臨床研究推進センター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251006-2.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "臨床研究コーディネーター（特定有期雇用教職員）",
+        "deadline": "2025年12月25日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年10月6日",
+        "department": "臨床研究推進センター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251006-1.html"
     },
     {
         "type": "事務系・技術系職員等",
