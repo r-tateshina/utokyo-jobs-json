@@ -28,15 +28,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "特任専門職員または学術専門職員（特定有期雇用教職員）",
-        "deadline": "2025年10月14日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年10月7日",
-        "department": "医療品質評価学講座,医学系研究科・医学部",
-        "organization": "医学系研究科・医学部",
-        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251007.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "学術専門職（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年10月14日※ただし採用者が決定次第、募集終了",
         "posted": "2025年9月12日",
@@ -619,6 +610,15 @@
         "department": "広域科学専攻,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20251110_kouiki_jimuhosain.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2025年11月14日",
+        "posted": "2025年10月14日",
+        "department": "化学システム工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1010/cr2025-066-1010-001.pdf"
     },
     {
         "type": "教員・研究員",
