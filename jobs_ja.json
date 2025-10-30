@@ -1117,6 +1117,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2025年12月12日",
+        "posted": "2025年10月30日",
+        "department": "東京大学大学院人文社会系研究科・文学部図書室,人文社会系研究科・文学部",
+        "organization": "人文社会系研究科・文学部",
+        "url": "https://www.u-tokyo.ac.jp/content/400273535.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定有期雇用教職員）",
         "deadline": "2025年12月12日※ただし採用者が決定次第、募集終了",
         "posted": "2025年10月16日",
@@ -1393,6 +1402,24 @@
         "department": "獣医学専攻(獣医外科学研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20250701-1.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月6日",
+        "posted": "2025年10月30日",
+        "department": "重力波観測研究施設,宇宙線研究所",
+        "organization": "宇宙線研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400273537.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月6日",
+        "posted": "2025年10月30日",
+        "department": "重力波観測研究施設,宇宙線研究所",
+        "organization": "宇宙線研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400273536.pdf"
     },
     {
         "type": "教員・研究員",
