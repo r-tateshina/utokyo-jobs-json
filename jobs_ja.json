@@ -1,15 +1,6 @@
 [
     {
         "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定有期雇用教職員）",
-        "deadline": "2025年10月31日",
-        "posted": "2025年10月10日",
-        "department": "免疫学教室,医学系研究科・医学部",
-        "organization": "医学系研究科・医学部",
-        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251010.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "救急救命士（特定有期雇用教職員）",
         "deadline": "2025年10月31日",
         "posted": "2025年10月8日",
@@ -88,15 +79,6 @@
         "department": "事務部 研究支援課 外部資金戦略チーム,医科学研究所",
         "organization": "医科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400271510.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "准教授（教職員）",
-        "deadline": "2025年10月31日",
-        "posted": "2025年9月24日",
-        "department": "附属植物園本園,理学系研究科・理学部",
-        "organization": "理学系研究科・理学部",
-        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1846"
     },
     {
         "type": "教員・研究員",
@@ -543,6 +525,15 @@
         "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年11月14日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年10月31日",
+        "department": "総務課総務チーム(駒場友の会),総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20251114_soumu-tomonokai_tokuninsenmonsyokuin.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2025年11月14日※ただし採用者が決定次第、募集終了",
         "posted": "2025年10月27日",
         "department": "大学院数理科学研究科,数理科学研究科",
         "organization": "数理科学研究科",
@@ -664,6 +655,15 @@
         "department": "附属ビッグバン宇宙国際研究センター初期宇宙データ解析部門,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1822"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任准教授および特任助教（特定有期雇用教職員）",
+        "deadline": "2025年11月25日",
+        "posted": "2025年10月31日",
+        "department": "社会連携研究部門(ナノマテリアルイメージング研究部門),物性研究所",
+        "organization": "物性研究所",
+        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/10/tokuninkyoin_nanomaterialImaging_ja.pdf"
     },
     {
         "type": "教員・研究員",
