@@ -694,6 +694,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任准教授または特任講師（特定有期雇用教職員）",
+        "deadline": "2025年11月26日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年10月31日",
+        "department": "大学総合教育研究センターTL推進部門,大学総合教育研究センター",
+        "organization": "大学総合教育研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400273562.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2025年11月28日",
         "posted": "2025年10月22日",
@@ -1501,5 +1510,14 @@
         "department": "看護部,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250203-2.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年12月5日",
+        "posted": "2025年10月31日",
+        "department": "計算地球科学研究センター,地震研究所",
+        "organization": "地震研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400273422.pdf"
     }
 ]
