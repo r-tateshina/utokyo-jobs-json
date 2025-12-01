@@ -1027,6 +1027,24 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月1日",
+        "department": "情報学環・学際情報学府,情報学環・学際情報学府",
+        "organization": "情報学環・学際情報学府",
+        "url": "https://www.u-tokyo.ac.jp/content/400275440.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教または特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月1日",
+        "department": "情報学環・学際情報学府,情報学環・学際情報学府",
+        "organization": "情報学環・学際情報学府",
+        "url": "https://www.u-tokyo.ac.jp/content/400275437.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
         "posted": "2025年11月27日",
@@ -1078,6 +1096,15 @@
         "department": "物質・環境系部門　吉江研究室,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400274291.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年1月16日",
+        "posted": "2025年12月1日",
+        "department": "生物材料科学専攻(製紙科学研究室),農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20251201-1.pdf"
     },
     {
         "type": "教員・研究員",
