@@ -721,6 +721,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2025年12月29日",
+        "posted": "2025年12月2日",
+        "department": "人間・社会系部門　林研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400275737.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2025年12月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年11月28日",
@@ -1027,6 +1036,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "理学療法士（特定有期雇用教職員）",
+        "deadline": "2026年1月10日",
+        "posted": "2025年12月2日",
+        "department": "附属病院 関節外科,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400275783.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "看護師または保健師（教職員）",
         "deadline": "2026年1月13日",
         "posted": "2025年12月1日",
@@ -1069,6 +1087,15 @@
         "department": "生物材料科学専攻(製紙科学研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20251201-1.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教もしくは特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月16日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月2日",
+        "department": "物理学専攻,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1878"
     },
     {
         "type": "教員・研究員",
@@ -1402,6 +1429,15 @@
         "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400268869.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年3月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月2日",
+        "department": "大規模生命情報解析研究分野,定量生命科学研究所",
+        "organization": "定量生命科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400275724.pdf"
     },
     {
         "type": "事務系・技術系職員等",
