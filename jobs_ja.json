@@ -522,15 +522,6 @@
         "url": "https://www.ipmu.jp/ja/job-opportunities/Japanese2025"
     },
     {
-        "type": "教員・研究員",
-        "position": "特任助教（特定有期雇用教職員）",
-        "deadline": "2025年12月26日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月8日",
-        "department": "国立大学病院データベースセンター,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251205.html"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年12月26日※ただし採用者が決定次第、募集終了",
@@ -1350,15 +1341,6 @@
         "url": "https://www.e.u-tokyo.ac.jp/jobs/2025/20251117_boshu.pdf"
     },
     {
-        "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2026年1月31日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年11月6日",
-        "department": "精神神経科,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251106.html"
-    },
-    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2026年1月31日※ただし採用者が決定次第、募集終了",
@@ -1591,6 +1573,15 @@
         "department": "情報・エレクトロニクス系部門　杉浦研究室,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400268869.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "講師（教職員）",
+        "deadline": "2026年3月1日",
+        "posted": "2025年12月12日",
+        "department": "広域科学専攻 生命環境科学系(佐藤守俊研究室),総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260301_kouikiseimei-satouken_koushi.pdf"
     },
     {
         "type": "事務系・技術系職員等",
