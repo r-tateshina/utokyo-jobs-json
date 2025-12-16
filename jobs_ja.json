@@ -856,6 +856,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月15日",
+        "posted": "2025年12月16日",
+        "department": "研究インテグリティ・セキュリティ推進室(仮称),本部産学連携推進課",
+        "organization": "本部産学連携推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400276555.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2026年1月15日",
         "posted": "2025年12月10日",
@@ -1393,6 +1402,15 @@
         "department": "栄養疫学・行動栄養学講座,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251210.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2026年2月24日",
+        "posted": "2025年12月16日",
+        "department": "物理学専攻,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1884"
     },
     {
         "type": "教員・研究員",
