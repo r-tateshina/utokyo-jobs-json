@@ -1233,6 +1233,15 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20251128-1.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月29日",
+        "posted": "2025年12月18日",
+        "department": "総務係,宇宙線研究所",
+        "organization": "宇宙線研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400276790.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "非常勤講師（非常勤講師）",
         "deadline": "2026年1月29日",
@@ -1240,6 +1249,15 @@
         "department": "日本語部会,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260129_nihongobukai_hijyoukinkoushi.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月18日",
+        "department": "海洋生態系科学部門,大気海洋研究所",
+        "organization": "大気海洋研究所",
+        "url": "https://www.aori.u-tokyo.ac.jp/recruit/files/kenkyuin20260130.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1452,7 +1470,7 @@
         "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2026年2月9日",
-        "posted": "2025年12月15日",
+        "posted": "2025年12月18日",
         "department": "情報学環・学際情報学府,情報学環・学際情報学府",
         "organization": "情報学環・学際情報学府",
         "url": "https://www.iii.u-tokyo.ac.jp/manage/wp-content/uploads/2025/12/ff7fb856aac245ab9560ac9a54243ade.pdf"
@@ -1528,6 +1546,15 @@
         "department": "大学院経済学研究科,経済学研究科・経済学部",
         "organization": "経済学研究科・経済学部",
         "url": "https://www.e.u-tokyo.ac.jp/jobs/2025/20251212_boshu.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月27日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月18日",
+        "department": "国際・地域連携研究センター 国際連携研究部門,大気海洋研究所",
+        "organization": "大気海洋研究所",
+        "url": "https://www.aori.u-tokyo.ac.jp/recruit/files/hosain20260227.pdf"
     },
     {
         "type": "教員・研究員",
