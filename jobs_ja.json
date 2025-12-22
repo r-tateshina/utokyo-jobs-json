@@ -9,15 +9,6 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20251125-1.pdf"
     },
     {
-        "type": "教員・研究員",
-        "position": "教授（教職員）",
-        "deadline": "2025年12月22日",
-        "posted": "2025年10月17日",
-        "department": "生物科学専攻,理学系研究科・理学部",
-        "organization": "理学系研究科・理学部",
-        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1852"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "特任専門職員（短時間勤務有期雇用教職員）",
         "deadline": "2025年12月22日※ただし採用者が決定次第、募集終了",
@@ -763,6 +754,24 @@
         "department": "附属病院 関節外科,医科学研究所",
         "organization": "医科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400275783.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "教務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月12日",
+        "posted": "2025年12月22日",
+        "department": "附属原子核科学研究センター,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1889"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月12日",
+        "posted": "2025年12月22日",
+        "department": "附属原子核科学研究センター,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1888"
     },
     {
         "type": "事務系・技術系職員等",
