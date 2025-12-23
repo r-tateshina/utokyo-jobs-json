@@ -499,8 +499,8 @@
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2026年1月9日",
         "posted": "2025年12月22日",
-        "department": "グローバル教育センター,本部国際教育推進課",
-        "organization": "本部国際教育推進課",
+        "department": "グローバル教育センター,グローバル教育センター",
+        "organization": "グローバル教育センター",
         "url": "https://www.u-tokyo.ac.jp/content/400276973.pdf"
     },
     {
@@ -1168,6 +1168,33 @@
         "department": "日本語部会,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260129_nihongobukai_hijyoukinkoushi.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月30日",
+        "posted": "2025年12月23日",
+        "department": "システム創成学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1223/cr2025-093-1223-002.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任講師または特任助教（特定有期雇用教職員）",
+        "deadline": "2026年1月30日",
+        "posted": "2025年12月23日",
+        "department": "システム創成学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1223/cr2025-092-1223-001.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "一般職員（育休等代替教職員）",
+        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月23日",
+        "department": "研究推進課,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1223/cr2025-094-1223-003.pdf"
     },
     {
         "type": "事務系・技術系職員等",
