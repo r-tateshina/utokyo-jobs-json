@@ -9,15 +9,6 @@
         "url": "https://www.u-tokyo.ac.jp/content/400276279.pdf"
     },
     {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2025年12月24日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月10日",
-        "department": "計算地球科学研究センター,地震研究所",
-        "organization": "地震研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400276200.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2025年12月25日",
@@ -1072,6 +1063,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月21日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月24日",
+        "department": "教務課 後期課程チーム,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260121_kyoumukakoukikatei_jimuhosain.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年1月22日",
         "posted": "2025年12月4日",
@@ -1618,6 +1618,15 @@
         "department": "物理学専攻,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1884"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年2月25日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月10日",
+        "department": "計算地球科学研究センター,地震研究所",
+        "organization": "地震研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400276200.pdf"
     },
     {
         "type": "教員・研究員",
