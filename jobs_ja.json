@@ -1,15 +1,6 @@
 [
     {
         "type": "事務系・技術系職員等",
-        "position": "特任専門員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2025年1月30日",
-        "posted": "2025年11月25日",
-        "department": "総務課,農学生命科学研究科・農学部",
-        "organization": "農学生命科学研究科・農学部",
-        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20251125-1.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2025年12月24日※ただし採用者が決定次第、募集終了",
         "posted": "2025年12月10日",
@@ -852,7 +843,7 @@
         "posted": "2025年12月17日",
         "department": "住宅都市再生研究センター,本部協創企画課",
         "organization": "本部協創企画課",
-        "url": "https://www.u-tokyo.ac.jp/content/400276569.pdf"
+        "url": "https://www.u-tokyo.ac.jp/content/400277162.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1252,6 +1243,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月30日",
+        "posted": "2025年11月25日",
+        "department": "総務課,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20251125-1.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年12月24日",
@@ -1483,6 +1483,15 @@
         "department": "ナノスケール物性研究部門・島﨑研究室,物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2025/12/jokyou-_nanoshimazaki_ja.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月6日",
+        "posted": "2025年12月24日",
+        "department": "東京大学マーケットデザインセンター,経済学研究科・経済学部",
+        "organization": "経済学研究科・経済学部",
+        "url": "https://www.e.u-tokyo.ac.jp/jobs/2025/20251224_boshu.pdf"
     },
     {
         "type": "教員・研究員",
