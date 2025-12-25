@@ -739,15 +739,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2026年1月14日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月16日",
-        "department": "柏地区共通事務センター,柏地区共通事務センター",
-        "organization": "柏地区共通事務センター",
-        "url": "https://www.kashiwa.u-tokyo.ac.jp/Kashiwa_Campus/wp-content/uploads/2025/10/jinjikobo_kyotsu_20251215v2.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "臨床検査技師長（教職員）",
         "deadline": "2026年1月15日",
         "posted": "2025年12月23日",
@@ -889,6 +880,15 @@
         "department": "生物材料科学専攻(製紙科学研究室),農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20251201-1.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月16日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月25日",
+        "department": "疾患生命工学センター　医療材料・機器工学部門,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251225.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1221,7 +1221,16 @@
         "posted": "2025年12月23日",
         "department": "空間情報科学研究センター事務室,空間情報科学研究センター",
         "organization": "空間情報科学研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400277098.pdf"
+        "url": "https://www.u-tokyo.ac.jp/content/400277194.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月30日",
+        "posted": "2025年12月25日",
+        "department": "バイオエンジニアリング専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1224/cr2025-097-1224-003.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1258,6 +1267,24 @@
         "department": "総務課,農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2025/20251125-1.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月25日",
+        "department": "電子計算機室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400277196.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定有期雇用教職員）",
+        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月25日",
+        "department": "学術研究基盤支援室,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400277193.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1312,15 +1339,6 @@
         "department": "総務課,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1208/cr2025-086-1209-0001.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "助教（教職員）",
-        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年11月26日",
-        "department": "電子計算機室,生産技術研究所",
-        "organization": "生産技術研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400275280.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1789,6 +1807,15 @@
         "department": "広域科学専攻 生命環境科学系(佐藤守俊研究室),総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260301_kouikiseimei-satouken_koushi.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "教授（教職員）",
+        "deadline": "2026年3月6日",
+        "posted": "2025年12月25日",
+        "department": "生物科学専攻生物学講座,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1892"
     },
     {
         "type": "事務系・技術系職員等",
