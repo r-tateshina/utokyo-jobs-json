@@ -667,6 +667,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年1月15日",
+        "posted": "2025年12月26日",
+        "department": "天文学専攻藤井研究室,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1893"
+    },
+    {
+        "type": "教員・研究員",
         "position": "社会科（地理）専任教諭（教職員）",
         "deadline": "2026年1月15日",
         "posted": "2025年12月25日",
@@ -736,6 +745,33 @@
         "department": "ビヨンド・”ゼロカーボン”を目指すCo-JUNKANプラットフォーム研究ユニットおよびSustainable Heating/Cooling連携研究ユニット,未来ビジョン研究センター",
         "organization": "未来ビジョン研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400276405.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年1月16日",
+        "posted": "2025年12月26日",
+        "department": "産学協創推進室,新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400277274.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月16日",
+        "posted": "2025年12月26日",
+        "department": "広報室(企画担当),新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400277273.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年1月16日",
+        "posted": "2025年12月26日",
+        "department": "広報室(ウェブ担当),新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400277272.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1771,6 +1807,15 @@
         "department": "広域科学専攻 生命環境科学系(佐藤守俊研究室),総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260301_kouikiseimei-satouken_koushi.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月1日※ただし採用者が決定次第、募集終了",
+        "posted": "2025年12月26日",
+        "department": "発達医科学分野,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251226.pdf"
     },
     {
         "type": "教員・研究員",
