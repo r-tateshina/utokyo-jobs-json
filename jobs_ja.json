@@ -1,14 +1,5 @@
 [
     {
-        "type": "教員・研究員",
-        "position": "特任助教（特定有期雇用教職員）",
-        "deadline": "2026年1月9日",
-        "posted": "2025年12月22日",
-        "department": "グローバル教育センター,グローバル教育センター",
-        "organization": "グローバル教育センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400276973.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "特任専門員（特定有期雇用教職員）",
         "deadline": "2026年1月9日",
@@ -25,15 +16,6 @@
         "department": "生態調和農学機構,農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2025/20251217-4.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "一般職員（育休等代替教職員）",
-        "deadline": "2026年1月9日",
-        "posted": "2025年12月16日",
-        "department": "事務部 研究支援課 外部資金戦略チーム,医科学研究所",
-        "organization": "医科学研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400276573.pdf"
     },
     {
         "type": "教員・研究員",
@@ -109,15 +91,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "用務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月12日",
-        "department": "法学政治学研究科,法学政治学研究科・法学部",
-        "organization": "法学政治学研究科・法学部",
-        "url": "https://www.u-tokyo.ac.jp/content/400276457.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
         "posted": "2025年12月1日",
@@ -133,15 +106,6 @@
         "department": "情報学環・学際情報学府,情報学環・学際情報学府",
         "organization": "情報学環・学際情報学府",
         "url": "https://www.u-tokyo.ac.jp/content/400275437.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2026年1月9日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年11月27日",
-        "department": "公共政策大学院,公共政策大学院",
-        "organization": "公共政策大学院",
-        "url": "https://www.u-tokyo.ac.jp/content/400275470.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -892,6 +856,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月26日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月9日",
+        "department": "総合研究博物館,小石川分館分室及び東京大学薬学部6階,本部博物館事業課",
+        "organization": "本部博物館事業課",
+        "url": "https://www.um.u-tokyo.ac.jp/wordpress/wp-content/uploads/koubo20260109_2.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定有期雇用教職員）",
         "deadline": "2026年1月26日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月5日",
@@ -1195,15 +1168,6 @@
         "department": "こころの発達診療部,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251117-2.html"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2026年1月31日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年11月18日",
-        "department": "こころの発達診療部,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20251117.html"
     },
     {
         "type": "教員・研究員",
@@ -1693,12 +1657,30 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任助教または特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年3月16日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月9日",
+        "department": "極小デバイス理工学分野 岩本研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400277828.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "准教授（教職員）",
         "deadline": "2026年3月24日",
         "posted": "2026年1月7日",
         "department": "物理学専攻,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1899"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2026年3月31日",
+        "posted": "2026年1月9日",
+        "department": "国際社会科学専攻 国際関係論講座,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260331_kokusaisyakai-kokusaikankeiron_jyunkyoujyu.pdf"
     },
     {
         "type": "事務系・技術系職員等",
