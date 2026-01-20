@@ -28,15 +28,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "一般職員（育休等代替教職員）",
-        "deadline": "2026年1月20日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月26日",
-        "department": "学務課,工学系研究科・工学部",
-        "organization": "工学系研究科・工学部",
-        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1226/cr2025-103-1226-003.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年1月20日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月5日",
@@ -640,6 +631,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月20日",
+        "department": "システム創成学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0120/cr2025-111-0120-001.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月19日",
@@ -846,6 +846,15 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2026/20260116-2.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月3日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月20日",
+        "department": "教務課 前期課程チーム,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260203_kyoumuka_tokuninsenmonsyokuin.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2026年2月4日",
@@ -946,6 +955,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年2月6日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月20日",
+        "department": "グローバル・コモンズ・センター,未来ビジョン研究センター",
+        "organization": "未来ビジョン研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400278445.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年2月6日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月14日",
@@ -997,6 +1015,15 @@
         "department": "新領域創成科学研究科　先端エネルギー工学専攻,新領域創成科学研究科",
         "organization": "新領域創成科学研究科",
         "url": "https://www.u-tokyo.ac.jp/content/400275913.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（教職員）",
+        "deadline": "2026年2月15日",
+        "posted": "2026年1月20日",
+        "department": "社会科学研究所,社会科学研究所",
+        "organization": "社会科学研究所",
+        "url": "https://jww.iss.u-tokyo.ac.jp/2026/recruit20260119.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1339,6 +1366,15 @@
         "department": "発達医科学分野,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251226.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月2日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月20日",
+        "department": "公共政策大学院,公共政策大学院",
+        "organization": "公共政策大学院",
+        "url": "https://www.u-tokyo.ac.jp/content/400278447.pdf"
     },
     {
         "type": "教員・研究員",
