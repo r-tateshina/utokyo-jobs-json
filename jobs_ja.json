@@ -460,15 +460,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "一般職員（育休等代替教職員）",
-        "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月23日",
-        "department": "研究推進課,工学系研究科・工学部",
-        "organization": "工学系研究科・工学部",
-        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1223/cr2025-094-1223-003.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年1月30日※ただし採用者が決定次第、募集終了",
         "posted": "2025年12月22日",
@@ -766,15 +757,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定有期雇用教職員）",
-        "deadline": "2026年2月5日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年1月21日",
-        "department": "大学総合教育研究センターTL推進部門,大学総合教育研究センター",
-        "organization": "大学総合教育研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400278559.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年2月6日",
         "posted": "2025年12月24日",
@@ -808,6 +790,15 @@
         "department": "駒場コモンズラボ(仮称)インテリジェントコアファシリティ分野,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400276091.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月6日",
+        "posted": "2026年1月23日",
+        "department": "環境安全本部,本部安全衛生課",
+        "organization": "本部安全衛生課",
+        "url": "https://www.u-tokyo.ac.jp/content/400278684.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -862,6 +853,15 @@
         "department": "新世代感染症センター,新世代感染症センター",
         "organization": "新世代感染症センター",
         "url": "https://www.u-tokyo.ac.jp/content/400278506.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年2月6日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月23日",
+        "department": "産学連携法務部産学連携推進課,本部産学連携推進課",
+        "organization": "本部産学連携推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400278685.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1026,15 +1026,6 @@
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260119-2.html"
     },
     {
-        "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2026年2月15日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年1月19日",
-        "department": "精神神経科,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260119-1.html"
-    },
-    {
         "type": "教員・研究員",
         "position": "特任助教または特任研究員（ポスドク）（特定有期雇用教職員）",
         "deadline": "2026年2月15日※ただし採用者が決定次第、募集終了",
@@ -1186,6 +1177,24 @@
         "department": "大学院経済学研究科,経済学研究科・経済学部",
         "organization": "経済学研究科・経済学部",
         "url": "https://www.e.u-tokyo.ac.jp/jobs/2025/20251212_boshu.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授および助教（教職員）",
+        "deadline": "2026年2月27日",
+        "posted": "2026年1月23日",
+        "department": "生物科学専攻,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1913"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年2月27日",
+        "posted": "2026年1月23日",
+        "department": "神岡宇宙素粒子研究施設,宇宙線研究所",
+        "organization": "宇宙線研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400278663.pdf"
     },
     {
         "type": "教員・研究員",
@@ -1396,6 +1405,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年3月8日",
+        "posted": "2026年1月23日",
+        "department": "広域科学専攻 相関基礎科学系,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260308_kouikisoukan_jyokyo.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "教授（教職員）",
         "deadline": "2026年3月15日",
         "posted": "2026年1月8日",
@@ -1510,6 +1528,15 @@
         "department": "看護部,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20250203-2.html"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年3月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月23日",
+        "department": "機械・生体系部門　岡部(洋)研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400278693.pdf"
     },
     {
         "type": "事務系・技術系職員等",
