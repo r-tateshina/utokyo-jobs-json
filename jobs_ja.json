@@ -604,6 +604,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月5日",
+        "posted": "2026年1月26日",
+        "department": "教務課,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2026/20260126-3.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年2月5日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月22日",
@@ -712,6 +721,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月6日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月26日",
+        "department": "口腔顎顔面外科・矯正歯科/ティッシュ・エンジニアリング部,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260123-3.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2026年2月6日※ただし採用者が決定次第、募集終了",
         "posted": "2026年1月23日",
@@ -763,6 +781,15 @@
         "department": "情報学環・学際情報学府,情報学環・学際情報学府",
         "organization": "情報学環・学際情報学府",
         "url": "https://www.iii.u-tokyo.ac.jp/manage/wp-content/uploads/2025/12/ff7fb856aac245ab9560ac9a54243ade.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教　または　特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年2月10日",
+        "posted": "2026年1月26日",
+        "department": "大学院教育学研究科附属発達保育実践政策学センター,教育学研究科・教育学部",
+        "organization": "教育学研究科・教育学部",
+        "url": "https://www.u-tokyo.ac.jp/content/400278884.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -900,15 +927,6 @@
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260123-1.html"
     },
     {
-        "type": "事務系・技術系職員等",
-        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
-        "deadline": "2026年2月15日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年1月19日",
-        "department": "精神神経科,医学部附属病院",
-        "organization": "医学部附属病院",
-        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260119-2.html"
-    },
-    {
         "type": "教員・研究員",
         "position": "特任助教または特任研究員（ポスドク）（特定有期雇用教職員）",
         "deadline": "2026年2月15日※ただし採用者が決定次第、募集終了",
@@ -972,6 +990,15 @@
         "url": "https://www.u-tokyo.ac.jp/content/400273736.pdf"
     },
     {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年2月16日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月26日",
+        "department": "総合研究博物館,海部研究室,本部博物館事業課",
+        "organization": "本部博物館事業課",
+        "url": "https://www.um.u-tokyo.ac.jp/wordpress/wp-content/uploads/koubo20260126.pdf"
+    },
+    {
         "type": "事務系・技術系職員等",
         "position": "一般職員（配偶者同行休業代替職員） （育休等代替教職員）",
         "deadline": "2026年2月16日※ただし採用者が決定次第、募集終了",
@@ -988,6 +1015,24 @@
         "department": "附属ビッグバン宇宙国際研究センター,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1904"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "外国語科（英語）非常勤講師（非常勤講師）",
+        "deadline": "2026年2月18日",
+        "posted": "2026年1月26日",
+        "department": "教育学部附属中等教育学校,教育学部附属中等教育学校",
+        "organization": "教育学部附属中等教育学校",
+        "url": "https://www.hs.p.u-tokyo.ac.jp/wp-content/uploads/2026/01/2026eighijyokinn.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "国語科非常勤講師（非常勤講師）",
+        "deadline": "2026年2月18日",
+        "posted": "2026年1月26日",
+        "department": "教育学部附属中等教育学校,教育学部附属中等教育学校",
+        "organization": "教育学部附属中等教育学校",
+        "url": "https://www.hs.p.u-tokyo.ac.jp/wp-content/uploads/2026/01/2026kokugohijyokinn.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1141,6 +1186,15 @@
         "department": "財務課,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2025/1210/cr2025-088-1210-001.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年2月27日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年1月26日",
+        "department": "免疫学教室,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260125.pdf"
     },
     {
         "type": "教員・研究員",
