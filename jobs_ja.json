@@ -18,15 +18,6 @@
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1915"
     },
     {
-        "type": "教員・研究員",
-        "position": "特任研究員または特任専門職員（特定有期雇用教職員）",
-        "deadline": "2026年2月20日※ただし採用者が決定次第、募集終了",
-        "posted": "2025年12月10日",
-        "department": "栄養疫学・行動栄養学講座,医学系研究科・医学部",
-        "organization": "医学系研究科・医学部",
-        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20251210.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年2月20日※ただし採用者が決定次第、募集終了",
@@ -748,6 +739,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "技術補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月6日",
+        "posted": "2026年2月20日",
+        "department": "生命情報計測光学分野 太田研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400280788.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年3月6日",
         "posted": "2026年2月13日",
@@ -943,6 +943,24 @@
         "department": "カブリ数物連携宇宙研究機構,カブリ数物連携宇宙研究機構",
         "organization": "カブリ数物連携宇宙研究機構",
         "url": "https://www.ipmu.jp/en/job-opportunities/EPP2026"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月27日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年2月20日",
+        "department": "メディカル情報生命専攻松田研究室,新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400280821.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月27日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年2月20日",
+        "department": "メディカル情報生命専攻松田研究室,新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400280820.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -1339,6 +1357,15 @@
         "department": "大規模生命情報解析研究分野,定量生命科学研究所",
         "organization": "定量生命科学研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400276981.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年6月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年2月20日",
+        "department": "大規模生命情報解析研究分野,定量生命科学研究所",
+        "organization": "定量生命科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400280817.pdf"
     },
     {
         "type": "教員・研究員",
