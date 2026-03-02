@@ -21,15 +21,6 @@
         "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年3月2日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年2月13日",
-        "department": "事務部 教務チーム,新領域創成科学研究科",
-        "organization": "新領域創成科学研究科",
-        "url": "https://www.u-tokyo.ac.jp/content/400280229.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年3月2日※ただし採用者が決定次第、募集終了",
         "posted": "2026年2月10日",
         "department": "事務部 総務チーム,東洋文化研究所",
         "organization": "東洋文化研究所",
@@ -367,6 +358,15 @@
         "department": "地震火山研究連携センター,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400279955.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年3月19日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年3月2日",
+        "department": "低温科学研究センター研究開発部門,低温科学研究センター",
+        "organization": "低温科学研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400281258.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -765,6 +765,15 @@
         "url": "https://www.u-tokyo.ac.jp/content/400280762.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年4月17日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年3月2日",
+        "department": "機械・生体系部門 竹内研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400281394.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2026年4月17日※ただし採用者が決定次第、募集終了",
@@ -880,6 +889,15 @@
         "department": "情報理工学教育研究センター 河原塚研究室,情報理工学系研究科",
         "organization": "情報理工学系研究科",
         "url": "https://www.u-tokyo.ac.jp/content/400280061.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2026年5月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年3月2日",
+        "department": "物質・環境系部門　杉原研究室,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400281387.pdf"
     },
     {
         "type": "教員・研究員",
