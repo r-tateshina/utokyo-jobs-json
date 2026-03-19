@@ -1,30 +1,12 @@
 [
     {
         "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2026年3月19日",
-        "posted": "2026年2月9日",
-        "department": "地震火山研究連携センター,地震研究所",
-        "organization": "地震研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400279955.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "特任研究員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年3月19日※ただし採用者が決定次第、募集終了",
         "posted": "2026年3月2日",
         "department": "総合研究博物館研究部　佐々木研究室,本部博物館事業課",
         "organization": "本部博物館事業課",
         "url": "https://www.um.u-tokyo.ac.jp/wordpress/wp-content/uploads/koubo20260302_1.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年3月19日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年3月2日",
-        "department": "低温科学研究センター研究開発部門,低温科学研究センター",
-        "organization": "低温科学研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400281258.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -718,6 +700,15 @@
         "department": "生物多様性・生態系サービス分野 森研究室,先端科学技術研究センター",
         "organization": "先端科学技術研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400281092.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年4月24日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年3月19日",
+        "department": "低温科学研究センター研究開発部門,低温科学研究センター",
+        "organization": "低温科学研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400282551.pdf"
     },
     {
         "type": "教員・研究員",
