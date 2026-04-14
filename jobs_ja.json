@@ -334,15 +334,6 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年4月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年3月10日",
-        "department": "理論化学分野,先端科学技術研究センター",
-        "organization": "先端科学技術研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400282132.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2026年4月30日※ただし採用者が決定次第、募集終了",
         "posted": "2026年3月3日",
@@ -394,6 +385,15 @@
         "department": "物理学専攻,理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1937"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定有期雇用教職員）",
+        "deadline": "2026年5月7日",
+        "posted": "2026年4月14日",
+        "department": "産学協創部協創課,本部協創企画課",
+        "organization": "本部協創企画課",
+        "url": "https://www.u-tokyo.ac.jp/content/400285923.pdf"
     },
     {
         "type": "教員・研究員",
@@ -907,6 +907,15 @@
         "department": "広域科学専攻生命環境科学系　生物部会,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260831_kouiki-seimei_jyokyo.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年4月14日",
+        "department": "電気系工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0414/cr2026-009-0414-001.pdf"
     },
     {
         "type": "事務系・技術系職員等",
