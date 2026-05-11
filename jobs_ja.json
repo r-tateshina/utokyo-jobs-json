@@ -1,30 +1,12 @@
 [
     {
         "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年5月11日",
-        "posted": "2026年4月20日",
-        "department": "産学協創部協創課,本部協創企画課",
-        "organization": "本部協創企画課",
-        "url": "https://www.u-tokyo.ac.jp/content/400286259.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2026年5月11日",
         "posted": "2026年3月31日",
         "department": "国際教育推進課,本部国際教育推進課",
         "organization": "本部国際教育推進課",
         "url": "https://www.u-tokyo.ac.jp/content/400283837.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "一般技術職員（教職員）",
-        "deadline": "2026年5月11日",
-        "posted": "2026年2月3日",
-        "department": "共同利用・共同研究推進センター 共同利用・共同研究推進室 観測研究推進グループ,大気海洋研究所",
-        "organization": "大気海洋研究所",
-        "url": "https://www.aori.u-tokyo.ac.jp/recruit/20260511.html"
     },
     {
         "type": "事務系・技術系職員等",
@@ -820,10 +802,10 @@
     },
     {
         "type": "事務系・技術系職員等",
-        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2026年7月1日",
         "posted": "2026年4月30日",
-        "department": "応用附属動物医療センター 特任専門職員(動物看護師)　公募案内,農学生命科学研究科・農学部",
+        "department": "附属動物医療センター,農学生命科学研究科・農学部",
         "organization": "農学生命科学研究科・農学部",
         "url": "https://www.a.u-tokyo.ac.jp/job/staff/2026/20260428-2.pdf"
     },
@@ -853,6 +835,15 @@
         "department": "都市工学専攻,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0508/cr2026-016-0508-002.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年7月31日",
+        "posted": "2026年5月11日",
+        "department": "物性理論研究部門・越野研究室,物性研究所",
+        "organization": "物性研究所",
+        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2026/05/jokyou_rironkoshino_ja.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -889,6 +880,15 @@
         "department": "広域科学専攻生命環境科学系　生物部会,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260831_kouiki-seimei_jyokyo.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年5月11日",
+        "department": "学生支援室,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260511.pdf"
     },
     {
         "type": "教員・研究員",
