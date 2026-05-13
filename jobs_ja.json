@@ -595,6 +595,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年6月8日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年5月13日",
+        "department": "本部施設企画課,本部施設企画課",
+        "organization": "本部施設企画課",
+        "url": "https://www.u-tokyo.ac.jp/content/400287894.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年6月8日※ただし採用者が決定次第、募集終了",
         "posted": "2026年4月17日",
@@ -865,6 +874,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "教授（教職員）",
+        "deadline": "2026年7月9日",
+        "posted": "2026年5月13日",
+        "department": "機械・生体系部門,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400287876.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "准教授（教職員）",
         "deadline": "2026年7月17日",
         "posted": "2026年5月8日",
@@ -907,6 +925,15 @@
         "department": "所属部門・センターは採用内定後に決定,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400284413.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "講師または准教授（教職員）",
+        "deadline": "2026年8月31日",
+        "posted": "2026年5月13日",
+        "department": "情報・エレクトロニクス系部門,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400287882.pdf"
     },
     {
         "type": "教員・研究員",
