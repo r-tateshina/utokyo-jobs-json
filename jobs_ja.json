@@ -136,6 +136,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年6月14日",
+        "posted": "2026年6月1日",
+        "department": "文学部・人文社会系研究科事務部財務・研究支援チーム,人文社会系研究科・文学部",
+        "organization": "人文社会系研究科・文学部",
+        "url": "https://www.u-tokyo.ac.jp/content/400288967.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年6月15日",
         "posted": "2026年5月14日",
@@ -178,6 +187,15 @@
         "department": "低温科学研究センター研究開発部門,低温科学研究センター",
         "organization": "低温科学研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400288807.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2026年6月21日",
+        "posted": "2026年6月1日",
+        "department": "スルタン・カブース・グローバル中東研究寄付講座,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260621_UTCMES_tokuninjyokyo.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -268,6 +286,15 @@
         "department": "国際学術戦略室,東洋文化研究所",
         "organization": "東洋文化研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400288398.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年6月30日",
+        "posted": "2026年6月1日",
+        "department": "国際教育推進課,本部国際教育推進課",
+        "organization": "本部国際教育推進課",
+        "url": "https://www.u-tokyo.ac.jp/content/400288992.pdf"
     },
     {
         "type": "教員・研究員",
@@ -432,6 +459,15 @@
         "url": "https://www.u-tokyo.ac.jp/content/400279657.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定有期雇用教職員）",
+        "deadline": "2026年7月1日",
+        "posted": "2026年6月1日",
+        "department": "附属動物医療センター,農学生命科学研究科・農学部",
+        "organization": "農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/job/staff/2026/20260601-1.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2026年7月1日",
@@ -559,21 +595,30 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（ポスドク）（特定有期雇用教職員）",
+        "deadline": "2026年8月3日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月1日",
+        "department": "5つの国際提携研究室(米国/イタリア/フランス/シンガポール)のいずれか、および東京大学高等研究所 ニューロインテリジェンス国際研究機構,ニューロインテリジェンス国際研究機構",
+        "organization": "ニューロインテリジェンス国際研究機構",
+        "url": "https://ircn.jp/wp-content/uploads/2026/06/20260601G-koubo-Sendou_JPN.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2026年8月17日",
+        "posted": "2026年6月1日",
+        "department": "マテリアル工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0601/cr2026-019-0601-001.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任助教または特任研究員（特定有期雇用教職員）",
         "deadline": "2026年8月17日※ただし採用者が決定次第、募集終了",
         "posted": "2026年5月22日",
         "department": "極小デバイス理工学分野 岩本研究室,先端科学技術研究センター",
         "organization": "先端科学技術研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400288467.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2026年8月21日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年4月1日",
-        "department": "所属部門・センターは採用内定後に決定,地震研究所",
-        "organization": "地震研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400284413.pdf"
     },
     {
         "type": "教員・研究員",
@@ -610,6 +655,24 @@
         "department": "細胞分子生理学教室,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260514.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月1日",
+        "department": "システムデザイン研究センター,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0601/cr2026-021-0601-003.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月1日",
+        "department": "システムデザイン研究センター,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0601/cr2026-020-0601-002.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -700,6 +763,15 @@
         "department": "看護部,医学部附属病院",
         "organization": "医学部附属病院",
         "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260128.html"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "医師事務作業補助者（特任専門職員）（特定有期雇用教職員）",
+        "deadline": "2027年3月31日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月1日",
+        "department": "医療運営課,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260601.html"
     },
     {
         "type": "事務系・技術系職員等",
