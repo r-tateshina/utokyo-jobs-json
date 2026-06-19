@@ -307,6 +307,24 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "技術補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年6月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月19日",
+        "department": "神経病理学教室,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260619.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年6月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年6月19日",
+        "department": "精密工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0618/cr2026-030-0618-002.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員（特定有期雇用教職員）",
         "deadline": "2026年6月30日※ただし採用者が決定次第、募集終了",
         "posted": "2026年6月11日",
@@ -513,6 +531,15 @@
         "url": "https://www.u-tokyo.ac.jp/content/400287922.pdf"
     },
     {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年7月10日",
+        "posted": "2026年6月19日",
+        "department": "アイソトープ総合センター,アイソトープ総合センター",
+        "organization": "アイソトープ総合センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400290360.pdf"
+    },
+    {
         "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年7月10日",
@@ -585,6 +612,15 @@
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0508/cr2026-016-0508-002.pdf"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "一般職員（育休等代替教職員）",
+        "deadline": "2026年7月24日",
+        "posted": "2026年6月19日",
+        "department": "情報システム部DX推進課,本部情報戦略課",
+        "organization": "本部情報戦略課",
+        "url": "https://www.itc.u-tokyo.ac.jp/wp-content/uploads/2026/06/83e11efb678fdad2cfc8fb413fcea5db-1.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "機構長職（任期5年間）（特定有期雇用教職員）",
         "deadline": "2026年7月24日",
@@ -592,6 +628,15 @@
         "department": "カブリ数物連携宇宙研究機構,カブリ数物連携宇宙研究機構",
         "organization": "カブリ数物連携宇宙研究機構",
         "url": "https://www.ipmu.jp/ja/job-opportunities/director2028"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "准教授（教職員）",
+        "deadline": "2026年7月25日",
+        "posted": "2026年6月19日",
+        "department": "スピントロニクス学術連携研究教育センター,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0618/cr2026-029-0618-001.pdf"
     },
     {
         "type": "教員・研究員",
@@ -628,6 +673,15 @@
         "department": "利益相反アドバイザリー室,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260612.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任教員又は特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年7月31日",
+        "posted": "2026年6月19日",
+        "department": "不動産イノベーション研究センター,経済学研究科・経済学部",
+        "organization": "経済学研究科・経済学部",
+        "url": "https://www.e.u-tokyo.ac.jp/jobs/2026/20260618_boshu.pdf"
     },
     {
         "type": "教員・研究員",
