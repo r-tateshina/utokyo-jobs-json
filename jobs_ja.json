@@ -162,6 +162,15 @@
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1964"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年7月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年7月1日",
+        "department": "事務部庶務チーム(庶務担当),地震研究所",
+        "organization": "地震研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400291093.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "保健体育科任期付き専任教諭（教職員）",
         "deadline": "2026年7月16日",
@@ -223,6 +232,15 @@
         "department": "経理課用度チーム,総合文化研究科・教養学部",
         "organization": "総合文化研究科・教養学部",
         "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260721_keirikayoudo_jimuhosain.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定有期雇用教職員）",
+        "deadline": "2026年7月22日",
+        "posted": "2026年7月1日",
+        "department": "附属病院 血液腫瘍内科,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400291099.pdf"
     },
     {
         "type": "事務系・技術系職員等",
@@ -766,21 +784,21 @@
     },
     {
         "type": "教員・研究員",
-        "position": "特任研究員（特定有期雇用教職員）",
-        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年4月14日",
-        "department": "電気系工学専攻,工学系研究科・工学部",
-        "organization": "工学系研究科・工学部",
-        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0414/cr2026-009-0414-001.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2026年10月1日",
         "posted": "2026年5月27日",
         "department": "極限コヒーレント光科学研究センター軌道放射物性研究施設(木村研究室),物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2026/05/tokuninjokyo_sorkimura_ja.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年11月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年7月1日",
+        "department": "電気系工学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0630/cr2026-031-0630-001.pdf"
     },
     {
         "type": "事務系・技術系職員等",
