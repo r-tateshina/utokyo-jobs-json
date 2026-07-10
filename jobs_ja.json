@@ -9,15 +9,6 @@
         "url": "https://www.a.u-tokyo.ac.jp/job/faculty/2026/20260623-1.pdf"
     },
     {
-        "type": "教員・研究員",
-        "position": "助教（教職員）",
-        "deadline": "2026年7月10日",
-        "posted": "2026年6月19日",
-        "department": "アイソトープ総合センター,アイソトープ総合センター",
-        "organization": "アイソトープ総合センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400290360.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "事務補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年7月10日",
@@ -268,6 +259,15 @@
         "department": "利益相反アドバイザリー室,医学系研究科・医学部",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260612.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "数学分野の教授またはテニュアトラック准教授（教職員）",
+        "deadline": "2026年7月31日",
+        "posted": "2026年7月10日",
+        "department": "カブリ数物連携宇宙研究機構,カブリ数物連携宇宙研究機構",
+        "organization": "カブリ数物連携宇宙研究機構",
+        "url": "https://www.ipmu.jp/ja/job-opportunities/MATH2027"
     },
     {
         "type": "事務系・技術系職員等",
@@ -646,6 +646,15 @@
         "department": "生物科学専攻 医科学数理研究室(角田研究室),理学系研究科・理学部",
         "organization": "理学系研究科・理学部",
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1982"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2026年8月25日",
+        "posted": "2026年7月10日",
+        "department": "スルタン・カブース・グローバル中東研究寄付講座,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20260825_UTCMES_tokuninjyokyo.pdf"
     },
     {
         "type": "教員・研究員",
