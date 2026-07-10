@@ -478,6 +478,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年8月3日",
+        "posted": "2026年7月10日",
+        "department": "附属原子核科学研究センター,理学系研究科・理学部",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1985"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任研究員（ポスドク）（特定有期雇用教職員）",
         "deadline": "2026年8月3日※ただし採用者が決定次第、募集終了",
         "posted": "2026年6月1日",
@@ -907,6 +916,15 @@
         "department": "極限コヒーレント光科学研究センター軌道放射物性研究施設(木村研究室),物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2026/05/tokuninjokyo_sorkimura_ja.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "臨床検査技師（特定有期雇用教職員）",
+        "deadline": "2026年10月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年7月10日",
+        "department": "附属病院 セルプロセッシング・輸血部,医科学研究所",
+        "organization": "医科学研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400292243.pdf"
     },
     {
         "type": "事務系・技術系職員等",
