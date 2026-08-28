@@ -1,50 +1,5 @@
 [
     {
-        "type": "教員・研究員",
-        "position": "特任助教もしくは特任研究員（特定有期雇用教職員）",
-        "deadline": "2026年8月28日",
-        "posted": "2026年8月18日",
-        "department": "ビヨンド・“ゼロカーボン”を目指すCo-JUNKAN プラ ットフォーム研究ユニットおよび関連する研究ユニット,未来ビジョン研究センター",
-        "organization": "未来ビジョン研究センター",
-        "url": "https://www.u-tokyo.ac.jp/content/400294467.pdf"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "特任助教（特定有期雇用教職員）",
-        "deadline": "2026年8月28日",
-        "posted": "2026年8月5日",
-        "department": "化学専攻 有機化学講座 物理有機化学研究室,理学系研究科・理学部",
-        "organization": "理学系研究科・理学部",
-        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1990"
-    },
-    {
-        "type": "教員・研究員",
-        "position": "助教（教職員）",
-        "deadline": "2026年8月28日",
-        "posted": "2026年5月20日",
-        "department": "附属量子ナノ物性研究センター・橋坂研究室,物性研究所",
-        "organization": "物性研究所",
-        "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2026/05/jokyou_ryoshinanohashisaka_ja.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年8月28日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年8月5日",
-        "department": "技術経営戦略学専攻,工学系研究科・工学部",
-        "organization": "工学系研究科・工学部",
-        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0804/cr2026-040-0804-001.pdf"
-    },
-    {
-        "type": "事務系・技術系職員等",
-        "position": "事務補佐員（短時間勤務有期雇用教職員）",
-        "deadline": "2026年8月28日※ただし採用者が決定次第、募集終了",
-        "posted": "2026年8月3日",
-        "department": "人間環境学専攻　稗方研究室,新領域創成科学研究科",
-        "organization": "新領域創成科学研究科",
-        "url": "https://www.u-tokyo.ac.jp/content/400293887.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "事務補佐員・一般職員（育休等代替教職員）",
         "deadline": "2026年8月31日",
@@ -502,6 +457,15 @@
         "department": "地震発生予測研究センター,地震研究所",
         "organization": "地震研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400293489.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "講師（教職員）",
+        "deadline": "2026年9月30日",
+        "posted": "2026年8月28日",
+        "department": "国際交流室,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260828.pdf"
     },
     {
         "type": "教員・研究員",
