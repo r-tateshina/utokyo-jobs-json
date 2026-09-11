@@ -343,6 +343,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年9月11日",
+        "department": "アイソトープ総合センター,アイソトープ総合センター",
+        "organization": "アイソトープ総合センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400295919.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "特任助教（特定有期雇用教職員）",
         "deadline": "2026年9月30日※ただし採用者が決定次第、募集終了",
         "posted": "2026年9月7日",
@@ -650,6 +659,15 @@
     {
         "type": "教員・研究員",
         "position": "教授（教職員）",
+        "deadline": "2026年10月29日",
+        "posted": "2026年9月11日",
+        "department": "環境システム学専攻 地域環境システム学講座 環境安全工学分野,新領域創成科学研究科",
+        "organization": "新領域創成科学研究科",
+        "url": "https://www.u-tokyo.ac.jp/content/400295915.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "教授（教職員）",
         "deadline": "2026年10月30日",
         "posted": "2026年9月7日",
         "department": "人間・社会系部門,生産技術研究所",
@@ -691,6 +709,15 @@
         "department": "附属生命データサイエンスセンター　鈴木穣研究室,新領域創成科学研究科",
         "organization": "新領域創成科学研究科",
         "url": "https://www.u-tokyo.ac.jp/content/400291809.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "事務補佐員（短時間勤務有期雇用教職員）",
+        "deadline": "2026年10月31日",
+        "posted": "2026年9月11日",
+        "department": "生命科学技術国際卓越大学院,医学系研究科・医学部",
+        "organization": "医学系研究科・医学部",
+        "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20260911.pdf"
     },
     {
         "type": "事務系・技術系職員等",
