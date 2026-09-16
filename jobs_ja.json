@@ -568,6 +568,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "一般職員（臨時的採用）（育休等代替教職員）",
+        "deadline": "2026年10月13日",
+        "posted": "2026年9月16日",
+        "department": "経理課連携研究支援室執行チーム,生産技術研究所",
+        "organization": "生産技術研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400296265.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
         "deadline": "2026年10月14日",
         "posted": "2026年9月14日",
@@ -619,6 +628,24 @@
         "department": "環境システム学専攻 地域環境システム学講座 環境安全工学分野,新領域創成科学研究科",
         "organization": "新領域創成科学研究科",
         "url": "https://www.u-tokyo.ac.jp/content/400295915.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年10月30日",
+        "posted": "2026年9月16日",
+        "department": "システム創成学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0915/cr2026-049-0915-003.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教（特定有期雇用教職員）",
+        "deadline": "2026年10月30日",
+        "posted": "2026年9月16日",
+        "department": "システム創成学専攻,工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0915/cr2026-048-0915-002.pdf"
     },
     {
         "type": "教員・研究員",
