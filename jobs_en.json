@@ -190,11 +190,38 @@
     },
     {
         "type": "Faculty and Research Positions",
+        "position": "Assistant Professor (Academic and Administrative Staff)",
+        "deadline": "Nov. 27, 2026",
+        "posted": "Sep. 25, 2026",
+        "department": "Department of Biotechnology(Laboratory of Microbiology),Graduate School of Agricultural and Life Sciences / Faculty of Agriculture",
+        "organization": "Graduate School of Agricultural and Life Sciences / Faculty of Agriculture",
+        "url": "https://www.a.u-tokyo.ac.jp/english/job/faculty/20260924-1e.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
         "position": "Project Researcher (Fixed-term Project Staff)",
         "deadline": "Nov. 30, 2026(or until the position is filled)",
         "posted": "Jul. 1, 2026",
         "department": "Electrical Engineering,Graduate School of Engineering / Faculty of Engineering",
         "organization": "Graduate School of Engineering / Faculty of Engineering",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0630/cr2026-031-0630-002-en.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Postdoctoral Fellowship (Fixed-term Project Staff)",
+        "deadline": "Dec. 2, 2026",
+        "posted": "Sep. 25, 2026",
+        "department": "Institute for Cosmic Ray Research,Institute for Cosmic Ray Research",
+        "organization": "Institute for Cosmic Ray Research",
+        "url": "https://www.u-tokyo.ac.jp/content/400296758.pdf "
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Postdoctoral fellow (Fixed-term Project Staff)",
+        "deadline": "Dec. 7, 2026",
+        "posted": "Sep. 25, 2026",
+        "department": "The KAGRA project group,Institute for Cosmic Ray Research",
+        "organization": "Institute for Cosmic Ray Research",
+        "url": "https://www.u-tokyo.ac.jp/content/400296767.pdf "
     }
 ]
