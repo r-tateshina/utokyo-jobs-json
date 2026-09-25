@@ -1,15 +1,6 @@
 [
     {
         "type": "教員・研究員",
-        "position": "助教（教職員）",
-        "deadline": "2026年9月25日",
-        "posted": "2026年7月22日",
-        "department": "附属中性子科学研究施設(佐藤研究室),物性研究所",
-        "organization": "物性研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400293192.pdf"
-    },
-    {
-        "type": "教員・研究員",
         "position": "特任研究員（特定有期雇用教職員）",
         "deadline": "2026年9月25日",
         "posted": "2026年7月21日",
@@ -331,6 +322,15 @@
         "department": "極限コヒーレント光科学研究センター軌道放射物性研究施設(木村研究室),物性研究所",
         "organization": "物性研究所",
         "url": "https://www.issp.u-tokyo.ac.jp/news/wp-content/uploads/2026/05/tokuninjokyo_sorkimura_ja.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年10月2日",
+        "posted": "2026年9月25日",
+        "department": "附属中性子科学研究施設(佐藤研究室),物性研究所",
+        "organization": "物性研究所",
+        "url": "https://www.u-tokyo.ac.jp/content/400296819.pdf"
     },
     {
         "type": "事務系・技術系職員等",
