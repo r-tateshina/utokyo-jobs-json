@@ -1,14 +1,5 @@
 [
     {
-        "type": "教員・研究員",
-        "position": "准教授（教職員）",
-        "deadline": "2026年9月28日",
-        "posted": "2026年7月28日",
-        "department": "地震発生予測研究センター,地震研究所",
-        "organization": "地震研究所",
-        "url": "https://www.u-tokyo.ac.jp/content/400293489.pdf"
-    },
-    {
         "type": "事務系・技術系職員等",
         "position": "技術補佐員（短時間勤務有期雇用教職員）",
         "deadline": "2026年9月30日",
@@ -451,6 +442,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年10月15日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年9月28日",
+        "department": "脳機能素子医科学分野 柳下研究室,先端科学技術研究センター",
+        "organization": "先端科学技術研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400296935.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "学術専門職員（特定有期雇用教職員）",
         "deadline": "2026年10月15日※ただし採用者が決定次第、募集終了",
         "posted": "2026年9月9日",
@@ -747,6 +747,15 @@
         "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1998"
     },
     {
+        "type": "事務系・技術系職員等",
+        "position": "一般技術職員又は技術専門職員（正規職員）（教職員）",
+        "deadline": "2026年11月30日",
+        "posted": "2026年9月28日",
+        "department": "社会科学研究所,社会科学研究所",
+        "organization": "社会科学研究所",
+        "url": "https://iss.u-tokyo.ac.jp/news/2026/upload/recruit20260928.pdf"
+    },
+    {
         "type": "教員・研究員",
         "position": "助教（教職員）",
         "deadline": "2026年11月30日",
@@ -754,6 +763,15 @@
         "department": "システム創成学専攻,工学系研究科・工学部",
         "organization": "工学系研究科・工学部",
         "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0918/cr2026-052-0918-002.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "学術専門職員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2026年11月30日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年9月28日",
+        "department": "予防医学センター,医学部附属病院",
+        "organization": "医学部附属病院",
+        "url": "https://www.h.u-tokyo.ac.jp/recruitment/syokuin/20260928-1.html"
     },
     {
         "type": "事務系・技術系職員等",
@@ -808,6 +826,15 @@
         "department": "機械・生体系部門,生産技術研究所",
         "organization": "生産技術研究所",
         "url": "https://www.u-tokyo.ac.jp/content/400296798.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任研究員（特定有期雇用教職員）",
+        "deadline": "2026年12月15日",
+        "posted": "2026年9月28日",
+        "department": "総合研究機構(山田研究室),工学系研究科・工学部",
+        "organization": "工学系研究科・工学部",
+        "url": "https://www.t.u-tokyo.ac.jp/hubfs/Careers/2026/0928/cr2026-056-0928-001.pdf"
     },
     {
         "type": "教員・研究員",
