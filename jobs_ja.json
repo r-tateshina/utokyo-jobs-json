@@ -613,6 +613,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "助教（教職員）",
+        "deadline": "2026年11月25日",
+        "posted": "2026年10月16日",
+        "department": "言語情報科学専攻,総合文化研究科・教養学部",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20261125_gengo_jyokyo.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "助教※年俸制（教職員）",
         "deadline": "2026年11月25日",
         "posted": "2026年9月25日",
@@ -1033,6 +1042,24 @@
         "department": "先端科学技術研究センター,先端科学技術研究センター",
         "organization": "先端科学技術研究センター",
         "url": "https://www.u-tokyo.ac.jp/content/400298184.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教および特任研究員（特定短時間勤務有期雇用教職員）",
+        "deadline": "2027年1月8日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年10月16日",
+        "department": "関本研究室,空間情報科学研究センター",
+        "organization": "空間情報科学研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400298470.pdf"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "特任助教および特任研究員（特定有期雇用教職員）",
+        "deadline": "2027年1月8日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年10月16日",
+        "department": "関本研究室,空間情報科学研究センター",
+        "organization": "空間情報科学研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400298471.pdf"
     },
     {
         "type": "事務系・技術系職員等",
