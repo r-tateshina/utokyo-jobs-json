@@ -91,6 +91,15 @@
     },
     {
         "type": "Faculty and Research Positions",
+        "position": "Project Researcher(Fixed-term Project Staff)",
+        "deadline": "Nov. 30, 2026(or until the position is filled)",
+        "posted": "Nov. 2, 2026",
+        "department": "International Research Center for Neurointelligence (IRCN); Kiyoto Kasai Lab.",
+        "organization": "International Research Center for Neurointelligence",
+        "url": "https://ircn.jp/wp-content/uploads/2026/10/20261029_G-koubo-K_KasaiTeamScience_ENG.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
         "position": "Research Associate(Academic and Administrative Staff)",
         "deadline": "Nov. 30, 2026",
         "posted": "Oct. 23, 2026",
@@ -223,5 +232,14 @@
         "department": "Chao (IRCN Principal Investigator) Laboratory",
         "organization": "International Research Center for Neurointelligence",
         "url": "https://ircn.jp/wp-content/uploads/2026/10/20261002_G-koubo_Chao_ENG.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Research Associate(Academic and Administrative Staff)",
+        "deadline": "Jan. 13, 2027",
+        "posted": "Nov. 2, 2026",
+        "department": "Nanoscale Quantum Science Center (Ideue Group)",
+        "organization": "Institute for Solid State Physics",
+        "url": "https://www.u-tokyo.ac.jp/content/400299891.pdf"
     }
 ]
