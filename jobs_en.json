@@ -10,15 +10,6 @@
     },
     {
         "type": "Faculty and Research Positions",
-        "position": "Project Professor(Fixed-term Project Staff)",
-        "deadline": "Nov. 11, 2026(or until the position is filled)",
-        "posted": "Oct. 28, 2026",
-        "department": "International Research Center for Neurointelligence, The University of Tokyo, Institutes for Advanced Study",
-        "organization": "International Research Center for Neurointelligence",
-        "url": "https://ircn.jp/wp-content/uploads/2026/10/20261028_G_Koubo_ProjectProfessor_IRCN2_ENG.pdf"
-    },
-    {
-        "type": "Faculty and Research Positions",
         "position": "Assistant Professor(Academic and Administrative Staff)",
         "deadline": "Nov. 13, 2026",
         "posted": "Sep. 29, 2026",
@@ -70,6 +61,15 @@
         "department": "Department of Biotechnology（Laboratory of Microbiology）",
         "organization": "Graduate School of Agricultural and Life Sciences / Faculty of Agriculture",
         "url": "https://www.a.u-tokyo.ac.jp/english/job/faculty/20260924-1e.pdf"
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Project Researcher(Fixed-term Project Staff)",
+        "deadline": "Nov. 30, 2026(or until the position is filled)",
+        "posted": "Nov. 11, 2026",
+        "department": "Center for Global Commons",
+        "organization": "Institute for Future Initiatives",
+        "url": "https://www.u-tokyo.ac.jp/content/400300642.pdf"
     },
     {
         "type": "Faculty and Research Positions",
@@ -258,6 +258,6 @@
         "posted": "Nov. 2, 2026",
         "department": "Nanoscale Quantum Science Center (Ideue Group)",
         "organization": "Institute for Solid State Physics",
-        "url": "https://www.u-tokyo.ac.jp/content/400299891.pdf"
+        "url": "https://www.u-tokyo.ac.jp/content/400300636.pdf"
     }
 ]
