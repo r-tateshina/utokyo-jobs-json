@@ -560,6 +560,15 @@
     {
         "type": "教員・研究員",
         "position": "助教(教職員)",
+        "deadline": "2026年12月7日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年11月17日",
+        "department": "生物科学専攻生物化学講座（濡木研究室）",
+        "organization": "理学系研究科・理学部",
+        "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=2024"
+    },
+    {
+        "type": "教員・研究員",
+        "position": "助教(教職員)",
         "deadline": "2026年12月7日",
         "posted": "2026年11月5日",
         "department": "附属フォトンサイエンス研究機構",
@@ -775,6 +784,15 @@
     },
     {
         "type": "事務系・技術系職員等",
+        "position": "学術専門職員(特定有期雇用教職員)",
+        "deadline": "2026年12月16日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年11月17日",
+        "department": "グローバル・コモンズ・センター",
+        "organization": "未来ビジョン研究センター",
+        "url": "https://www.u-tokyo.ac.jp/content/400301059.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
         "position": "特任専門職員(特定有期雇用教職員)",
         "deadline": "2026年12月17日",
         "posted": "2026年11月16日",
@@ -857,7 +875,7 @@
     {
         "type": "教員・研究員",
         "position": "特任助教(特定有期雇用教職員)",
-        "deadline": "2026年12月21日※ただし採用者が決定次第、募集終了",
+        "deadline": "2026年12月21日",
         "posted": "2026年10月28日",
         "department": "地球惑星科学専攻 地球生命圏科学講座",
         "organization": "理学系研究科・理学部",
@@ -1072,6 +1090,15 @@
     },
     {
         "type": "教員・研究員",
+        "position": "特任助教(特定有期雇用教職員)",
+        "deadline": "2027年1月6日",
+        "posted": "2026年11月17日",
+        "department": "総合研究博物館",
+        "organization": "本部博物館事業課",
+        "url": "https://www.um.u-tokyo.ac.jp/wordpress/wp-content/uploads/koubo20261117.pdf"
+    },
+    {
+        "type": "教員・研究員",
         "position": "教授または准教授(教職員)",
         "deadline": "2027年1月6日",
         "posted": "2026年10月21日",
@@ -1186,6 +1213,15 @@
         "department": "利益相反アドバイザリー室",
         "organization": "医学系研究科・医学部",
         "url": "https://www.m.u-tokyo.ac.jp/news/jobs/20261110.pdf"
+    },
+    {
+        "type": "事務系・技術系職員等",
+        "position": "特任専門職員(特定短時間勤務有期雇用教職員)",
+        "deadline": "2027年1月28日※ただし採用者が決定次第、募集終了",
+        "posted": "2026年11月17日",
+        "department": "教務課国際化推進チーム（PEAK／GPEAK）",
+        "organization": "総合文化研究科・教養学部",
+        "url": "https://www.c.u-tokyo.ac.jp/info/news/employment/files/20270128_kyoumuka-PEAK_tokuninsenmonsyokuin.pdf"
     },
     {
         "type": "事務系・技術系職員等",
