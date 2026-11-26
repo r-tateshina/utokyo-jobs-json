@@ -10,15 +10,6 @@
     },
     {
         "type": "Faculty and Research Positions",
-        "position": "Associate Professor (Academic and Administrative Staff)",
-        "deadline": "Nov. 26, 2026",
-        "posted": "Sep. 25, 2026",
-        "department": "Department of Biotechnology(Laboratory of Applied Microbiology),Graduate School of Agricultural and Life Sciences / Faculty of Agriculture",
-        "organization": "Graduate School of Agricultural and Life Sciences / Faculty of Agriculture",
-        "url": "https://www.a.u-tokyo.ac.jp/english/job/faculty/20260904-1e.pdf"
-    },
-    {
-        "type": "Faculty and Research Positions",
         "position": "Assistant Professor (Academic and Administrative Staff)",
         "deadline": "Nov. 27, 2026",
         "posted": "Sep. 25, 2026",
@@ -217,20 +208,20 @@
     },
     {
         "type": "Faculty and Research Positions",
-        "position": "Project Researcher, Project Assistant Professor (Fixed-term Project Staff)",
-        "deadline": "Jan. 4, 2027",
-        "posted": "Nov. 12, 2026",
-        "department": "Research Center for the Early Universe,Graduate School of Science / Faculty of Science",
-        "organization": "Graduate School of Science / Faculty of Science",
-        "url": "https://www.s.u-tokyo.ac.jp/en/recruit/?id=2021"
-    },
-    {
-        "type": "Faculty and Research Positions",
         "position": "Research Associate (Academic and Administrative Staff)",
         "deadline": "Jan. 13, 2027",
         "posted": "Nov. 2, 2026",
         "department": "Nanoscale Quantum Science Center (Ideue Group),Institute for Solid State Physics",
         "organization": "Institute for Solid State Physics",
         "url": "https://www.u-tokyo.ac.jp/content/400300636.pdf "
+    },
+    {
+        "type": "Faculty and Research Positions",
+        "position": "Associate Professor (Academic and Administrative Staff)",
+        "deadline": "Jan. 28, 2027",
+        "posted": "Nov. 26, 2026",
+        "department": "To be determined after appointment,Earthquake Research Institute",
+        "organization": "Earthquake Research Institute",
+        "url": "https://www.u-tokyo.ac.jp/content/400301652.pdf "
     }
 ]
